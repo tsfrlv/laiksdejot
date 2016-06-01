@@ -205,8 +205,18 @@ p.copyright {
 	height: 300px;
 	background-color: #E3E3E3;
 }
+.button-squared-klases {
+	white-space: normal;
+	display: inline;
+	width: 600px;
+	background-color: #E3E3E3;
+	float: right;
+}
 button > p { 
     background-color: #e4e4e4; 
+}
+right {
+	float: right;
 }
 a > p { 
     background-color: #e4e4e4;
@@ -255,16 +265,34 @@ a:hover {
 	background: url(../img-perf/scavetta.jpg) no-repeat right bottom;
     background-size: cover;
 }
-/*!
+#skaveta1 {
+	background: url(../img-perf/scavetta1.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#skaveta2 {
+	background: url(../img-perf/scavetta2.jpg) no-repeat right bottom;
+    background-size: cover;
+}
 #sikie {
 	background: url(../img-perf/sikie.jpg) no-repeat right bottom;
     background-size: cover;
 }
-
+#sikie1 {
+	background: url(../img-perf/sikie1.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#sikie2 {
+	background: url(../img-perf/sikie2.jpg) no-repeat right bottom;
+    background-size: cover;
+}
 #branko {
 	background: url(../img-perf/branko.jpg) no-repeat right bottom;
     background-size: cover;
 }
+/*!
+
+
+
 #atbalsts {
 	background: url(../img-perf/klimackova.jpg) no-repeat right bottom;
     background-size: cover;
