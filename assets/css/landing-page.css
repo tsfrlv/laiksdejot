@@ -228,7 +228,10 @@ a:hover {
 .btn-klases {
 	background-color: #e4e4e4;
 }
-
+.logo {
+	max-width: 180px;
+	padding: 20px;
+}
 #fine5 {
     background: url(../img-perf/fine5.jpg) no-repeat right bottom;
     background-size: cover;
