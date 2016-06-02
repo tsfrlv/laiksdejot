@@ -292,6 +292,10 @@ a:hover {
 	background: url(../img-perf/branko.jpg) no-repeat right bottom;
     background-size: cover;
 }
+#singe {
+	background: url(http://static1.squarespace.com/static/538cd11ae4b02af139f99352/t/572b3c6bb654f9ab18b413bb/1462451333969/?format=1000w) no-repeat right bottom;
+    background-size: cover;
+}
 /*!
 
 
@@ -300,8 +304,5 @@ a:hover {
 	background: url(../img-perf/klimackova.jpg) no-repeat right bottom;
     background-size: cover;
 }
-#singe {
-	background: url(../img-perf/klimackova.jpg) no-repeat right bottom;
-    background-size: cover;
-}
+
 */
