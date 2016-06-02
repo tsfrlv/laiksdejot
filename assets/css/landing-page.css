@@ -232,6 +232,9 @@ a:hover {
 	max-width: 180px;
 	padding: 20px;
 }
+.nav-stacked {
+	background-color: #fff;
+}
 #fine5 {
     background: url(../img-perf/fine5.jpg) no-repeat right bottom;
     background-size: cover;
