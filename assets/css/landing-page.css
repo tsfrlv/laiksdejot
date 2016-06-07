@@ -207,10 +207,8 @@ p.copyright {
 }
 .button-squared-klases {
 	white-space: normal;
-	display: inline;
-	width: 600px;
 	background-color: #E3E3E3;
-	float: right;
+	width: 500px;
 }
 button > p { 
     background-color: #e4e4e4; 
