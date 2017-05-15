@@ -1,0 +1,309 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+	padding: 10px;
+}
+.row {
+	padding: 15px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+h2,
+h3,
+h4,
+h5 {
+	text-align: center;
+	font-weight: 500;
+}
+
+nav {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.center {
+	text-align: center;
+	vertical-align: middle;
+}
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 10px;
+    text-align: right;
+	height: 150px;
+    color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+.nav-pills > li {
+  float: left;
+  background-color: #fff;
+  border-color: #000;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.banner {
+	height: 30%;
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner-bg.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.button-squared {
+	white-space: normal;
+	display: inline;
+	width: 300px;
+	height: 300px;
+	background-color: #E3E3E3;
+}
+.button-squared-klases {
+	white-space: normal;
+	background-color: #E3E3E3;
+	width: 500px;
+}
+button > p { 
+    background-color: #e4e4e4; 
+}
+right {
+	float: right;
+}
+a > p { 
+    background-color: #e4e4e4;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+}
+.btn-klases {
+	background-color: #e4e4e4;
+}
+.logo {
+	max-width: 180px;
+	padding: 20px;
+}
+.nav-stacked {
+	background-color: #fff;
+}
+#fine5 {
+    background: url(../img-perf/fine5.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#andrea1 {
+    background: url(../img-perf/andrea1.jpg) no-repeat right top;
+    background-size: cover;
+}
+#andrea2 {
+    background: url(../img-perf/andrea2.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#andrea3 {
+    background: url(../img-perf/andrea3.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#klimackova {
+    background: url(../img-perf/klimackova.JPG) no-repeat right bottom;
+    background-size: cover;
+}
+#klimackova2 {
+    background: url(../img-perf/klimackova2.JPG	) no-repeat right bottom;
+    background-size: cover;
+}
+#klimackova3 {
+    background: url(../img-perf/klimackova3.JPG	) no-repeat left bottom;
+    background-size: cover;
+}
+#agate {
+	background: url(../img-perf/agate.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#skaveta {
+	background: url(../img-perf/scavetta.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#skaveta1 {
+	background: url(../img-perf/scavetta1.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#skaveta2 {
+	background: url(../img-perf/scavetta2.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#sikie {
+	background: url(../img-perf/sikie.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#sikie1 {
+	background: url(../img-perf/sikie1.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#sikie2 {
+	background: url(../img-perf/sikie2.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#branko {
+	background: url(../img-perf/branko.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#singe {
+	background: url(http://static1.squarespace.com/static/538cd11ae4b02af139f99352/t/572b3c6bb654f9ab18b413bb/1462451333969/?format=1000w) no-repeat right bottom;
+    background-size: cover;
+}
+/*!
+
+
+
+#atbalsts {
+	background: url(../img-perf/klimackova.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+
+*/
