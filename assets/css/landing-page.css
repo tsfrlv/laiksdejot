@@ -113,7 +113,7 @@ nav {
 }
 
 .content-section-a {
-    padding: 50px 0;
+    padding: 50px 0px;
     background-color: #f8f8f8;
 }
 .nav-pills > li {
@@ -123,7 +123,7 @@ nav {
 }
 
 .content-section-b {
-    padding: 50px 0;
+    padding: 50px 0px;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -233,40 +233,40 @@ a:hover {
 .nav-stacked {
 	background-color: #fff;
 }
-#fine5 {
-    background: url(../img-perf/fine5.jpg) no-repeat right bottom;
+#vice {
+    background: url(../img-perf/Vice_a_versa_1.png) no-repeat right bottom;
     background-size: cover;
 }
-#andrea1 {
-    background: url(../img-perf/andrea1.jpg) no-repeat right top;
+#pelni {
+    background: url(../img-perf/Ashes_and_snow_I.jpg) no-repeat right top;
     background-size: cover;
 }
-#andrea2 {
+#tie {
     background: url(../img-perf/andrea2.jpg) no-repeat right bottom;
     background-size: cover;
 }
-#andrea3 {
+#sirds {
     background: url(../img-perf/andrea3.jpg) no-repeat right bottom;
     background-size: cover;
 }
-#klimackova {
-    background: url(../img-perf/klimackova.JPG) no-repeat right bottom;
-    background-size: cover;
-}
-#klimackova2 {
-    background: url(../img-perf/klimackova2.JPG	) no-repeat right bottom;
-    background-size: cover;
-}
-#klimackova3 {
-    background: url(../img-perf/klimackova3.JPG	) no-repeat left bottom;
+#suzana {
+    background: url(../img-perf/fialas.jpg) no-repeat right bottom;
     background-size: cover;
 }
 #agate {
-	background: url(../img-perf/agate.jpg) no-repeat right bottom;
+    background: url(../img-perf/Slikta_foto_Margarita_Germane.jpg) no-repeat right bottom;
     background-size: cover;
 }
-#skaveta {
-	background: url(../img-perf/scavetta.jpg) no-repeat right bottom;
+#izelpa {
+    background: url(../img-perf/Exhale_foto_Margunn_Kilde.jpg) no-repeat left bottom;
+    background-size: cover;
+}
+#katala {
+	background: url(../img-perf/pelekbalts.jpg) no-repeat right bottom;
+    background-size: cover;
+}
+#karenina {
+	background: url(../img-perf/C_Tears_of_Anna_Karenina_photo_by_dieb13.jpg) no-repeat right bottom;
     background-size: cover;
 }
 #skaveta1 {
