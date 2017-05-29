@@ -597,7 +597,7 @@
       <workItem from="1494858096059" duration="129000" />
       <workItem from="1495749197116" duration="3358000" />
       <workItem from="1495791181735" duration="39258000" />
-      <workItem from="1496053018392" duration="601000" />
+      <workItem from="1496053018392" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1495818600721</created>
@@ -732,11 +732,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496053497175</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="bildes aprakstiem">
+      <created>1496053641400</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1496053641400</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59454000" />
+    <option name="totallyTimeSpent" value="59477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -850,7 +857,8 @@
     <MESSAGE value="pic for fb" />
     <MESSAGE value="pic for fb old ppl" />
     <MESSAGE value="apraksti" />
-    <option name="LAST_COMMIT_MESSAGE" value="apraksti" />
+    <MESSAGE value="bildes aprakstiem" />
+    <option name="LAST_COMMIT_MESSAGE" value="bildes aprakstiem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
