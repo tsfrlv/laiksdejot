@@ -118,7 +118,7 @@ nav {
 }
 .nav-pills > li {
   float: left;
-  background-color: #fff;
+  background-color: transparent;
   border-color: #000;
 }
 
