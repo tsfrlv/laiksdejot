@@ -1,37 +1,74 @@
 [
   {
-    title: 'Par festivālu',
-    url: 'http://www.google.com',
-    target: 'home',
-    showModal: true,
-    showDropDown: false
+    "title": "Eksperiments ar apskavienu",
+    "url": "http://www.google.com",
+    "target": "apskaviens",
+    "showModal": true
   },
   {
-    title: 'Izrādes',
-    url: 'http://www.yahoo.com',
-    target: 'performances',
-    showModal: false,
-    showDropDown: true
+    "title": "Ananda",
+    "url": "http://www.flickr.com",
+    "target": "ananda",
+    "showModal": true
   },
   {
-    title: 'Mākslinieki',
-    url: 'http://www.facebook.com',
-    target: 'artists',
-    showModal: false,
-    showDropDown: true
+    "title": "Membra",
+    "url": "http://www.flickr.com",
+    "target": "membra",
+    "showModal": true
   },
   {
-    title: 'Meistarklases',
-    url: 'http://www.flickr.com',
-    target: 'workshops',
-    showModal: false,
-    showDropDown: true
+    "title": "Viņa dejo",
+    "url": "http://www.flickr.com",
+    "target": "dejo",
+    "showModal": true
   },
   {
-    title: 'Atbalstītāji',
-    url: 'http://www.flickr.com',
-    target: 'support',
-    showModal: true,
-    showDropDown: false
+    "title": "I am a really shy person",
+    "url": "http://www.flickr.com",
+    "target": "shy",
+    "showModal": true
+  },
+  {
+    "title": "ĀRĀ",
+    "url": "http://www.flickr.com",
+    "target": "ara",
+    "showModal": true
+  },
+  {
+    "title": "24h of Sleep ",
+    "url": "http://www.flickr.com",
+    "target": "sleep",
+    "showModal": true
+  },
+  {
+    "title": "Fafabulala",
+    "url": "http://www.flickr.com",
+    "target": "fafa",
+    "showModal": true
+  },
+  {
+    "title": "Divotne",
+    "url": "http://www.flickr.com",
+    "target": "divotne",
+    "showModal": true
+  },
+  {
+    "title": "Before the Beginning",
+    "url": "http://www.flickr.com",
+    "target": "before",
+    "showModal": true
+  },
+  {
+    "title": "Pitkät Piuhat",
+    "url": "http://www.flickr.com",
+    "target": "pitkat",
+    "showModal": true
+  },
+  {
+    "title": "Godos",
+    "url": "http://www.flickr.com",
+    "target": "godos",
+    "showModal": true
   }
 ]
