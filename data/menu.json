@@ -1,0 +1,37 @@
+[
+  {
+    title: 'Par festivālu',
+    url: 'http://www.google.com',
+    target: 'home',
+    showModal: true,
+    showDropDown: false
+  },
+  {
+    title: 'Izrādes',
+    url: 'http://www.yahoo.com',
+    target: 'performances',
+    showModal: false,
+    showDropDown: true
+  },
+  {
+    title: 'Mākslinieki',
+    url: 'http://www.facebook.com',
+    target: 'artists',
+    showModal: false,
+    showDropDown: true
+  },
+  {
+    title: 'Meistarklases',
+    url: 'http://www.flickr.com',
+    target: 'workshops',
+    showModal: false,
+    showDropDown: true
+  },
+  {
+    title: 'Atbalstītāji',
+    url: 'http://www.flickr.com',
+    target: 'support',
+    showModal: true,
+    showDropDown: false
+  }
+]
