@@ -1,8 +1,8 @@
 [
   {
-    "title": "Eksperiments ar apskavienu",
+    "title": "24h miega",
     "url": "http://www.google.com",
-    "target": "apskaviens",
+    "target": "24h",
     "showModal": true
   },
   {
@@ -12,9 +12,110 @@
     "showModal": true
   },
   {
+    "title": "Ārā",
+    "url": "http://www.flickr.com",
+    "target": "ara",
+    "showModal": true
+  },
+  {
+    "title": "Brīvais laiks",
+    "url": "http://www.google.com",
+    "target": "brivais",
+    "showModal": true
+  },
+  {
+    "title": "Divotne",
+    "url": "http://www.flickr.com",
+    "target": "divotne",
+    "showModal": true
+  },
+  {
+    "title": "Eksperiments ar apskāvienu",
+    "url": "http://www.flickr.com",
+    "target": "experiments",
+    "showModal": true
+  },
+  {
+    "title": "Fafabulala",
+    "url": "http://www.google.com",
+    "target": "fafabulala",
+    "showModal": true
+  },
+  {
+    "title": "Future Freak",
+    "url": "http://www.flickr.com",
+    "target": "future",
+    "showModal": true
+  },
+  {
+    "title": "Garie vadi (Pitkät Piuhat)",
+    "url": "http://www.flickr.com",
+    "target": "garie",
+    "showModal": true
+  },
+  {
+    "title": "Godos",
+    "url": "http://www.google.com",
+    "target": "godos",
+    "showModal": true
+  },
+  {
+    "title": "I am a Really Shy Person",
+    "url": "http://www.flickr.com",
+    "target": "iam",
+    "showModal": true
+  },
+  {
+    "title": "Klusais gids",
+    "url": "http://www.flickr.com",
+    "target": "klusais",
+    "showModal": true
+  },
+  {
+    "title": "Let’s Do Duo",
+    "url": "http://www.google.com",
+    "target": "lets",
+    "showModal": true
+  },
+  {
+    "title": "Latvijas Kultūras akadēmijas jaunie horeogrāfi",
+    "url": "http://www.flickr.com",
+    "target": "lka",
+    "showModal": true
+  },
+  {
     "title": "Membra",
     "url": "http://www.flickr.com",
     "target": "membra",
+    "showModal": true
+  },  {
+  "title": "Nr. 12",
+  "url": "http://www.google.com",
+  "target": "nr12",
+  "showModal": true
+},
+  {
+    "title": "Pirmkustinātājs",
+    "url": "http://www.flickr.com",
+    "target": "pirmkustinatajs",
+    "showModal": true
+  },
+  {
+    "title": "Stāvoklis un dizains",
+    "url": "http://www.flickr.com",
+    "target": "stavoklis",
+    "showModal": true
+  },
+  {
+    "title": "Uzdzist",
+    "url": "http://www.google.com",
+    "target": "uzdzist",
+    "showModal": true
+  },
+  {
+    "title": "Viņa dejo",
+    "url": "http://www.flickr.com",
+    "target": "vina",
     "showModal": true
   }
 ]

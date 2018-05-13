@@ -1,8 +1,21 @@
 [
   {
-    "title": "Eksperiments ar apskavienu",
+    "title": "Karls Sakss (Igaunija)",
     "url": "http://www.google.com",
-    "target": "apskaviens",
+    "target": "karlssaks",
+    "showModal": true
+  },
+  {
+    "title": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
+    "url": "http://www.google.com",
+    "target": "kulirosna",
+    "showModal": true
+  },
+  {
+    "title": "Virpi Junti (Somija)",
+    "url": "http://www.google.com",
+    "target": "virpijunti",
     "showModal": true
   }
+
 ]

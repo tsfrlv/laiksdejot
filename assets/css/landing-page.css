@@ -282,7 +282,7 @@ a:hover {
     background-size: cover;
 }
 .list-inline > li {
-    display: block;
+    display: inline-flex;
     padding-right: 5px;
     padding-left: 5px;
 }
