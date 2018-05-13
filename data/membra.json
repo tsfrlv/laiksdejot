@@ -1,23 +1,27 @@
 {
-  "title": "„Membra” (25’)",
+  "title": [
+    {
+      "p": "„Membra” (25’)"
+    }
+  ],
   "date": "Sestdien, 2. jūnijā, 17.00",
   "spot": "Zirgu pasts",
   "crew": [
     {
-	  "p": "Ideja, horeogrāfija, izpildījums: Agate Bankava"
-	},
-	{
-	  "p": "Scenogrāfija: Alise Šaburova"
-	},
-	{
-	  "p": "Mūzika: Dītrihs Bukstehūde „Membra Jesu Nostri”"
-	},
-	{
-	  "p": "Producente: Ina Ločmele"
-	},
-	{
-	  "p": "Atbalsta: Valsts Kultūrkapitāla fonds, Latvijas Kultūras akadēmija"
-	}
+      "p": "Ideja, horeogrāfija, izpildījums: Agate Bankava"
+    },
+    {
+      "p": "Scenogrāfija: Alise Šaburova"
+    },
+    {
+      "p": "Mūzika: Dītrihs Bukstehūde „Membra Jesu Nostri”"
+    },
+    {
+      "p": "Producente: Ina Ločmele"
+    },
+    {
+      "p": "Atbalsta: Valsts Kultūrkapitāla fonds, Latvijas Kultūras akadēmija"
+    }
   ],
   "body": [
     {

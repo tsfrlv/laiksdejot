@@ -1,23 +1,27 @@
 {
-  "title": "„Fafabulala” (40’)",
+  "title": [
+    {
+      "p": "„Fafabulala” (40’)"
+    }
+  ],
   "date": "Pirmdien, 4. jūnijā, 12.00",
   "spot": "„Noass”",
   "crew": [
     {
-	  "p": "Horeogrāfija: Agate Bankava"
-	},
-	{
-	  "p": "Dramaturģe: Anna Zvaigzne"
-	},
-	{
-	  "p": "Dejotāji: Ivars Broničs, Jānis Putniņš, Rūdolfs Gediņš"
-	},
-	{
-	  "p": "Producente: Ina Ločmele"
-	},
-	{
-	  "p": "Atbalsts: Valsts Kultūrkapitāla fonds, Laikmetīgās dejas horeogrāfu asociācija Latvijā (HA)"
-	}
+      "p": "Horeogrāfija: Agate Bankava"
+    },
+    {
+      "p": "Dramaturģe: Anna Zvaigzne"
+    },
+    {
+      "p": "Dejotāji: Ivars Broničs, Jānis Putniņš, Rūdolfs Gediņš"
+    },
+    {
+      "p": "Producente: Ina Ločmele"
+    },
+    {
+      "p": "Atbalsts: Valsts Kultūrkapitāla fonds, Laikmetīgās dejas horeogrāfu asociācija Latvijā (HA)"
+    }
   ],
   "body": [
     {

@@ -1,29 +1,33 @@
 {
-  "title": "„I am a Really Shy Person” (30’)",
+  "title": [
+    {
+      "p": "„I am a Really Shy Person” (30’)"
+    }
+  ],
   "date": "Svētdien, 3. jūnijā, 17.00",
   "spot": "Eduarda Smiļģa Teātra muzejs",
   "crew": [
     {
-	  "p": "Izrādes idejas autore, horeogrāfe un izpildītāja: Kristīne Brīniņa"
-	},
-	{
-	  "p": "Tehniskie risinājumi un atbalsts: Pēteris Brīniņš, Kārlis Lapiņš"
-	},
-	{
-	  "p": "Producente: Zane Estere Gruntmane"
-	},
-	{
-	  "p": "Producents: Pigeon Bridge"
-	},
-	{
-	  "p": "Līdzproducents: Cita Abra"
-	},
-	{
-	  "p": "Pirmizrāde: 2016. gada 30. jūlijā Cīravā"
-	},
-	{
-	  "p": "Atbalsta: Valsts Kultūrkapitāla fonds"
-	}
+      "p": "Izrādes idejas autore, horeogrāfe un izpildītāja: Kristīne Brīniņa"
+    },
+    {
+      "p": "Tehniskie risinājumi un atbalsts: Pēteris Brīniņš, Kārlis Lapiņš"
+    },
+    {
+      "p": "Producente: Zane Estere Gruntmane"
+    },
+    {
+      "p": "Producents: Pigeon Bridge"
+    },
+    {
+      "p": "Līdzproducents: Cita Abra"
+    },
+    {
+      "p": "Pirmizrāde: 2016. gada 30. jūlijā Cīravā"
+    },
+    {
+      "p": "Atbalsta: Valsts Kultūrkapitāla fonds"
+    }
   ],
   "body": [
     {

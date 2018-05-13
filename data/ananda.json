@@ -1,23 +1,27 @@
 {
-  "title": "„Ananda” (47’)",
+  "title": [
+    {
+      "p": "„Ananda” (47’)"
+    }
+  ],
   "date": "Sestdien, 2. jūnijā, 18.00",
   "spot": "Zirgu pasts",
   "crew": [
     {
-	  "p": "Horeogrāfe: Eva Kronberga"
-	},
-	{
-	  "p": "Dejo: Agate Bankava, Alise Putniņa, Ģirts Bisenieks, Rūdolfs Gediņš, Jānis Putniņš, Modris Opelts"
-	},
-	{
-	  "p": "Tērpu māksliniece: Anete Krišjānova"
-	},
-	{
-	  "p": "Stiliste: Laima Jurča"
-	},
-	{
-	  "p": "Gaismu dizains: Ivars Tilčiks"
-	}
+      "p": "Horeogrāfe: Eva Kronberga"
+    },
+    {
+      "p": "Dejo: Agate Bankava, Alise Putniņa, Ģirts Bisenieks, Rūdolfs Gediņš, Jānis Putniņš, Modris Opelts"
+    },
+    {
+      "p": "Tērpu māksliniece: Anete Krišjānova"
+    },
+    {
+      "p": "Stiliste: Laima Jurča"
+    },
+    {
+      "p": "Gaismu dizains: Ivars Tilčiks"
+    }
   ],
   "body": [
     {

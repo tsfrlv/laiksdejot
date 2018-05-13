@@ -1,23 +1,27 @@
 {
-  "title": "Latvijas Kultūras akadēmijas jaunie horeogrāfi",
+  "title": [
+    {
+      "p": "Latvijas Kultūras akadēmijas jaunie horeogrāfi"
+    }
+  ],
   "date": "Pirmdien, 4. jūnijā, 18:00",
   "spot": "Zirgu pasts",
   "crew": [
     {
-	  "p": ""
-	},
-	{
-	  "p": ""
-	},
-	{
-	  "p": ""
-	},
-	{
-	  "p": ""
-	},
-	{
-	  "p": ""
-	}
+      "p": ""
+    },
+    {
+      "p": ""
+    },
+    {
+      "p": ""
+    },
+    {
+      "p": ""
+    },
+    {
+      "p": ""
+    }
   ],
   "body": [
     {

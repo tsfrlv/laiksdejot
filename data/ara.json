@@ -1,32 +1,36 @@
 {
-  "title": "„Ārā” (80’)",
+  "title": [
+    {
+      "p": "„Ārā” (80’)"
+    }
+  ],
   "date": "Svētdien, 3. jūnijā, 20.00",
   "spot": "Zirgu pasts",
   "crew": [
     {
-	  "p": "Horeogrāfe: Olga Žitluhina"
-	},
-	{
-	  "p": "Mūzika: Juris Kaukulis, Kaspars Tobis"
-	},
-	{
-	  "p": "Dramaturģe: Inta Balode"
-	},
-	{
-	  "p": "Scenogrāfs: Gints Gabrāns"
-	},
-	{
-	  "p": "Tērpi: Šeila"
-	},
-	{
-	  "p": "Dejo: Agate Bankava, Alise Putniņa, Anna Novikova, Anne Birte Norda, Anastasija Lonšakova, Eva Kronberga, Karīna Lapšina, Maija Tjurjapina, Taisija Frolova, Jānis Putniņš, Ģirts Bisenieks, Ivars Broničs, Modris Opelts, Rūdolfs Gediņš"
-	},
-	{
-	  "p": "Producente: Baiba Ozoliņa"
-	},
-	{
-	  "p": "Atbalstītāji: Ibsen Scholarships, Valsts Kultūrkapitāla fonds, Rīgas dome"
-	}
+      "p": "Horeogrāfe: Olga Žitluhina"
+    },
+    {
+      "p": "Mūzika: Juris Kaukulis, Kaspars Tobis"
+    },
+    {
+      "p": "Dramaturģe: Inta Balode"
+    },
+    {
+      "p": "Scenogrāfs: Gints Gabrāns"
+    },
+    {
+      "p": "Tērpi: Šeila"
+    },
+    {
+      "p": "Dejo: Agate Bankava, Alise Putniņa, Anna Novikova, Anne Birte Norda, Anastasija Lonšakova, Eva Kronberga, Karīna Lapšina, Maija Tjurjapina, Taisija Frolova, Jānis Putniņš, Ģirts Bisenieks, Ivars Broničs, Modris Opelts, Rūdolfs Gediņš"
+    },
+    {
+      "p": "Producente: Baiba Ozoliņa"
+    },
+    {
+      "p": "Atbalstītāji: Ibsen Scholarships, Valsts Kultūrkapitāla fonds, Rīgas dome"
+    }
   ],
   "body": [
     {

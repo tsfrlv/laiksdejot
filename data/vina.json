@@ -1,23 +1,27 @@
 {
-  "title": "„Viņa dejo” (60’)",
+  "title": [
+    {
+      "p": "„Viņa dejo” (60’)"
+    }
+  ],
   "date": "Svētdien, 3. jūnijā, 13.00",
   "spot": "Eduarda Smiļģa Teātra muzejs",
   "crew": [
     {
-	  "p": "Horeogrāfe: Santa Grīnfelde"
-	},
-	{
-	  "p": "Scenogrāfe: Krista Briģe"
-	},
-	{
-	  "p": "Dejas kritiķe: Inta Balode"
-	},
-	{
-	  "p": ""
-	},
-	{
-	  "p": ""
-	}
+      "p": "Horeogrāfe: Santa Grīnfelde"
+    },
+    {
+      "p": "Scenogrāfe: Krista Briģe"
+    },
+    {
+      "p": "Dejas kritiķe: Inta Balode"
+    },
+    {
+      "p": ""
+    },
+    {
+      "p": ""
+    }
   ],
   "body": [
     {

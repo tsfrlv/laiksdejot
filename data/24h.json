@@ -1,26 +1,30 @@
 {
-  "title": "„24h miega” (24’)",
+  "title": [
+    {
+      "p": "„24h miega” (24’)"
+    }
+  ],
   "date": "Pirmdien, 4. jūnijā, 10.30",
   "spot": "„Noass”",
   "crew": [
     {
-	  "p": "Autore / Idea: Kristīne Brīniņa"
-	},
-	{
-	  "p": "Izpildītājas: Kristīne Brīniņa, Emija Zvaigznīte, Gundega Rēdere"
-	},
-	{
-	  "p": "Telpas iekārtojums: Marija Vītola"
-	},
-	{
-	  "p": "Skaņa: selffish"
-	},
-	{
-	  "p": "Gaismas: Ronalds Kļava"
-	},
-	{
-	  "p": "Producente: Laura Stašāne, Latvijas Jaunā teātra institūts"
-	}
+      "p": "Autore / Idea: Kristīne Brīniņa"
+    },
+    {
+      "p": "Izpildītājas: Kristīne Brīniņa, Emija Zvaigznīte, Gundega Rēdere"
+    },
+    {
+      "p": "Telpas iekārtojums: Marija Vītola"
+    },
+    {
+      "p": "Skaņa: selffish"
+    },
+    {
+      "p": "Gaismas: Ronalds Kļava"
+    },
+    {
+      "p": "Producente: Laura Stašāne, Latvijas Jaunā teātra institūts"
+    }
   ],
   "body": [
     {
