@@ -1,25 +1,16 @@
 [
   {
     "title": "Karls Sakss (Igaunija)",
-    "images": [
-      'http://www.laiksdejotfestivals.lv/data/karlssakss.jpg'
-    ],
     "target": "karlssakss",
     "showModal": true
   },
   {
     "title": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
-    "images": [
-      'http://www.laiksdejotfestivals.lv/data/kulirosna.jpg'
-    ],
     "target": "kulirosna",
     "showModal": true
   },
   {
     "title": "Virpi Junti (Somija)",
-    "images": [
-      'http://www.laiksdejotfestivals.lv/data/virpijunti.jpg'
-    ],
     "target": "virpijunti",
     "showModal": true
   }
