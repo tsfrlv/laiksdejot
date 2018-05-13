@@ -1,34 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="data in jsons new p">
-      <change afterPath="$PROJECT_DIR$/data/24h.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ananda.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ara.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/brivais.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/divotne.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/eksperiments.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fafabulala.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/future.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/garie.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/godos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/iam.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/karlssakss.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/klusais.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kulirosna.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/lets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/lka.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/membra.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/nr12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pirmkustinatajs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/stavoklis.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/uzdzist.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/vina.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/virpijunti.json" afterDir="false" />
+    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/landing-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/landing-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/home.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/performances.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/performances.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/workshops.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/workshops.json" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
@@ -60,6 +35,13 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="garie.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/garie.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400" />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="support.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/support.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,17 +54,17 @@
       <file leaf-file-name="menu.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/menu.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
+            <state relative-caret-position="600">
               <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshops.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workshops.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/workshops.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -96,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/home.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -170,9 +152,9 @@
         <option value="$PROJECT_DIR$/data/performences.json" />
         <option value="$PROJECT_DIR$/data/menu.json" />
         <option value="$PROJECT_DIR$/data/support.json" />
-        <option value="$PROJECT_DIR$/data/home.json" />
         <option value="$PROJECT_DIR$/data/performances.json" />
         <option value="$PROJECT_DIR$/data/workshops.json" />
+        <option value="$PROJECT_DIR$/data/home.json" />
       </list>
     </option>
   </component>
@@ -327,7 +309,7 @@
       <workItem from="1524522003982" duration="128000" />
       <workItem from="1524565718724" duration="13000" />
       <workItem from="1524649420922" duration="9426000" />
-      <workItem from="1526198664668" duration="1185000" />
+      <workItem from="1526198664668" duration="2754000" />
     </task>
     <task id="LOCAL-00001" summary="data in jsons">
       <created>1524649518960</created>
@@ -392,17 +374,31 @@
       <option name="project" value="LOCAL" />
       <updated>1524671718765</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="izrazu un meistarklasu apraksti">
+      <created>1526199914016</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526199914016</updated>
+    </task>
+    <task id="LOCAL-00011" summary="home apraksts">
+      <created>1526200282505</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526200282505</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26746000" />
+    <option name="totallyTimeSpent" value="28315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="LuaJ" order="3" />
@@ -410,7 +406,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -422,6 +418,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32941177" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -446,7 +463,9 @@
     <MESSAGE value="data in jsons new ffdg" />
     <MESSAGE value="data in jsons new aboit" />
     <MESSAGE value="data in jsons new p" />
-    <option name="LAST_COMMIT_MESSAGE" value="data in jsons new p" />
+    <MESSAGE value="izrazu un meistarklasu apraksti" />
+    <MESSAGE value="home apraksts" />
+    <option name="LAST_COMMIT_MESSAGE" value="home apraksts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/performances.json">
@@ -677,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/apskaviens.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/artists.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -698,21 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/menu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/performences.json" />
-    <entry file="file://$PROJECT_DIR$/data/support.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
@@ -720,10 +718,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/home.json">
+    <entry file="file://$PROJECT_DIR$/data/apskaviens.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workshops.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/menu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/support.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -734,10 +753,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/workshops.json">
+    <entry file="file://$PROJECT_DIR$/data/garie.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="-400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
