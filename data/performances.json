@@ -1,9 +1,6 @@
 [
   {
-    "title": [
-      {
-      "p":"24h miega"}
-      ],
+    "title": "24h miega",
     "url": "http://www.google.com",
     "target": "24h",
     "showModal": true
