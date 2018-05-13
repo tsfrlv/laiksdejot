@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data/24h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ananda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ananda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ananda1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/14_infade 3x5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/14_infade 3x5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/uzdzist.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pirmskustinatajs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/pirmskustinatajs.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uzdzist.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uzdzist.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ananda.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ananda.json" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,53 +32,17 @@
       <file leaf-file-name="performances.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/performances.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="membra.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/membra.json">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nr12.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/nr12.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pirmkustinatajs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/pirmkustinatajs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stavoklis.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/stavoklis.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdzist.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="uzdzist.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/uzdzist.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="272">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -105,6 +70,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="full-width-pics.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-590">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="landing-page.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="203" column="11" lean-forward="true" selection-start-line="203" selection-end-line="203" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="landing-page.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-454">
+              <caret line="23" column="10" selection-start-line="23" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ananda.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/ananda.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="110" lean-forward="true" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -161,7 +162,6 @@
         <option value="$PROJECT_DIR$/data/karlssakss.json" />
         <option value="$PROJECT_DIR$/data/kulirosna.json" />
         <option value="$PROJECT_DIR$/data/24h.json" />
-        <option value="$PROJECT_DIR$/data/ananda.json" />
         <option value="$PROJECT_DIR$/data/ara.json" />
         <option value="$PROJECT_DIR$/data/brivais.json" />
         <option value="$PROJECT_DIR$/data/divotne.json" />
@@ -180,8 +180,9 @@
         <option value="$PROJECT_DIR$/data/vina.json" />
         <option value="$PROJECT_DIR$/data/klusais.json" />
         <option value="$PROJECT_DIR$/data/virpijunti.json" />
-        <option value="$PROJECT_DIR$/data/performances.json" />
         <option value="$PROJECT_DIR$/data/uzdzist.json" />
+        <option value="$PROJECT_DIR$/data/performances.json" />
+        <option value="$PROJECT_DIR$/data/ananda.json" />
       </list>
     </option>
   </component>
@@ -337,7 +338,7 @@
       <workItem from="1524522003982" duration="128000" />
       <workItem from="1524565718724" duration="13000" />
       <workItem from="1524649420922" duration="9426000" />
-      <workItem from="1526198664668" duration="8170000" />
+      <workItem from="1526198664668" duration="11127000" />
     </task>
     <task id="LOCAL-00001" summary="data in jsons">
       <created>1524649518960</created>
@@ -479,11 +480,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526211372151</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="images in workshops">
+      <created>1526211623327</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1526211623327</updated>
+    </task>
+    <task id="LOCAL-00022" summary="images in workshops">
+      <created>1526211744515</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1526211744515</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33731000" />
+    <option name="totallyTimeSpent" value="36688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -608,31 +623,10 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/LD17/index.html" />
-    <entry file="file://$PROJECT_DIR$/css/landing-page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/artists.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -687,13 +681,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/future.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ananda.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/ara.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -853,15 +840,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/performances.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/uzdzist.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="272">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454">
+          <caret line="23" column="10" selection-start-line="23" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="203" column="11" lean-forward="true" selection-start-line="203" selection-end-line="203" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ananda.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="110" lean-forward="true" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
         </state>
       </provider>
     </entry>
