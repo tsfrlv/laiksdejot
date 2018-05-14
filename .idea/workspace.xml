@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data/calendar.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/calendar.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/calendar.json" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +37,8 @@
       <file leaf-file-name="calendar.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/calendar.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="697">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -336,7 +336,7 @@
       <workItem from="1524522003982" duration="128000" />
       <workItem from="1524565718724" duration="13000" />
       <workItem from="1524649420922" duration="9426000" />
-      <workItem from="1526198664668" duration="17033000" />
+      <workItem from="1526198664668" duration="19561000" />
     </task>
     <task id="LOCAL-00001" summary="data in jsons">
       <created>1524649518960</created>
@@ -541,11 +541,32 @@
       <option name="project" value="LOCAL" />
       <updated>1526278982558</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="calendar">
+      <created>1526282293242</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1526282293242</updated>
+    </task>
+    <task id="LOCAL-00031" summary="calendar">
+      <created>1526283977482</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1526283977482</updated>
+    </task>
+    <task id="LOCAL-00032" summary="calendar">
+      <created>1526285398074</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1526285398074</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42594000" />
+    <option name="totallyTimeSpent" value="45122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -623,7 +644,8 @@
     <MESSAGE value="images in workshops" />
     <MESSAGE value="images png" />
     <MESSAGE value="tickets" />
-    <option name="LAST_COMMIT_MESSAGE" value="tickets" />
+    <MESSAGE value="calendar" />
+    <option name="LAST_COMMIT_MESSAGE" value="calendar" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/LD17/index.html" />
@@ -924,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/calendar.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="697">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
         </state>
       </provider>
     </entry>
