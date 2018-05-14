@@ -6,16 +6,16 @@
       {
         "time": "17.00",
         "venue": "Zirgu Pasts",
-        "target": "ananda",
-        "chor": "Eva Kronberga ",
-        "title": "Ananda"
+        "target": "membra",
+        "chor": "Agate Bankava ",
+        "title": "Membra"
       },
       {
         "time": "18.00",
         "venue": "Zirgu Pasts",
-        "target": "membra",
-        "chor": "Agate Bankava ",
-        "title": "Membra"
+        "target": "ananda",
+        "chor": "Eva Kronberga ",
+        "title": "Ananda"
       },
       {
         "time": "20.00",
@@ -100,13 +100,6 @@
         "title": "Kustību darbnīca „Instinktīvais Es”"
       },
       {
-        "time": "13.15-14.45",
-        "venue": "Rīgas Horeogrāfijas skola",
-        "target": "kulirosna",
-        "chor": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
-        "title": "Reaģējoša ķermeņa treniņš"
-      },
-      {
         "time": "10.30",
         "venue": "NOASS",
         "target": "24h",
@@ -121,6 +114,13 @@
         "title": "Fafabulala"
       },
       {
+        "time": "13.15-14.45",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "kulirosna",
+        "chor": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
+        "title": "Reaģējoša ķermeņa treniņš"
+      },
+      {
         "time": "14.00",
         "venue": "Tallinas ielas radošais kvartāls",
         "target": "uzdzist",
@@ -131,8 +131,8 @@
         "time": "18.00",
         "venue": "Zirgu pasts",
         "target": "lka",
-        "chor": "LKA Laikmetīgās dejas mākslas programmas",
-        "title": "studentu darbi"
+        "chor": "LKA Laikmetīgās dejas mākslas programmas studenti",
+        "title": "Diplomdarbi"
       },
       {
         "time": "20.00",
@@ -160,13 +160,6 @@
         "target": "karlssakss",
         "chor": "Karls Sakss (Igaunija)",
         "title": "Kustību darbnīca „Instinktīvais Es”"
-      },
-      {
-        "time": "20.00",
-        "venue": "NOASS",
-        "target": "lets",
-        "chor": "Eva Kronberga un Jānis Putniņš",
-        "title": " Let`s Do Duo"
       },
       {
         "time": "19.00",
@@ -208,20 +201,6 @@
         "target": "kulirosna",
         "chor": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
         "title": "Reaģējoša ķermeņa treniņš"
-      },
-      {
-        "time": "17.00",
-        "venue": "Zirgu Pasts",
-        "target": "ananda",
-        "chor": "Eva Kronberga ",
-        "title": "Ananda"
-      },
-      {
-        "time": "18.00",
-        "venue": "Zirgu Pasts",
-        "target": "membra",
-        "chor": "Agate Bankava ",
-        "title": "Membra"
       },
       {
         "time": "18.00",
