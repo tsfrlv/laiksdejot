@@ -1,73 +1,77 @@
 {
-  "title": "Biļetes",
+  "title": [
+    {
+      "p": "Biļetes"
+    }
+  ],
   "subTitle1": "Izrādes",
   "body1": [
-      {
-        "p": "Biļešu cenas: 5, 7 un 10 EUR – pilnā cena; 3, 5 un 7 EUR – ar atlaidi."
-      },
-      {
-        "p": "Biļetes Biļešu paradīzes kasēs, www.bilesuparadize.lv un uz vietas pirms izrādēm."
-      },
-      {
-        "p": "Festivāla karte visu izrāžu apmeklējumam 80 EUR (ar atlaidi 60 EUR)."
-      },
-      {
-        "p": "Atlaides paredzētas HA biedriem, studentiem, pensionāriem, cilvēkiem ar invaliditāti."
-      },
-      {
-        "p": "  "
-      },
-      {
-        "p": "Biļetes uz izrādēm „Uzdzist” un „24h miega” nelielā vietu skaita dēļ iespējams iegādāties tikai Biļešu paradīzē vai rezervējot pa e-pastu laiksdejotinfo@gmail.com; biļetes nevarēs iegādāties uz vietas pirms izrādes."
-      },
-      {
-        "p": ""
-      }
-    ],
-    "subTitle2": "Izglītības programma",
-    "body2": [
-      {
-        "p": "Dalības maksa 1 meistarklasē (1,5 h) 5 EUR"
-      },
-      {
-        "p": "Dalības maksa 1 darbnīcā (3 h) 8 EUR."
-      },
-      {
-        "p": "  "
-      },
-      {
-        "p": "1,5 h meistarklases:"
-      },
-      {
-        "p": "- Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija) „Reaģējoša ķermeņa treniņš” 13.15–14.45;"
-      },
-      {
-        "p": "- Virpi Junti (Somija) Laikmetīgās dejas tehnika 10.00–11.30;"
-      },
-      {
-        "p": "- Virpi Junti (Somija) Laikmetīgās dejas tehnika 10.00–11.30."
-      },
-      {
-        "p": "  "
-      },
-      {
-        "p": "3 h meistardarbnīcas:"
-      },
-      {
-        "p": "- Karls Sakss (Igaunija) meistardarbnīca „Instinktīvais Es” 4. jūnijā 10.00;"
-      },
-      {
-        "p": "- Karls Sakss (Igaunija) meistardarbnīca „Instinktīvais Es” 5. jūnijā 12.00;"
-      },
-      {
-        "p": "- Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija) darbnīca „Reaģējoša ķermeņa treniņš” 6. jūnijā 12.00."
-      },
-      {
-        "p": "  "
-      },
-      {
-        "p": "Pieteikšanās klasēm, festivāla karšu rezervēšana: laiksdejotinfo@gmail.com"
-      }
-    ]
-  }
+    {
+      "p": "Biļešu cenas: 5, 7 un 10 EUR – pilnā cena; 3, 5 un 7 EUR – ar atlaidi."
+    },
+    {
+      "p": "Biļetes Biļešu paradīzes kasēs, www.bilesuparadize.lv un uz vietas pirms izrādēm."
+    },
+    {
+      "p": "Festivāla karte visu izrāžu apmeklējumam 80 EUR (ar atlaidi 60 EUR)."
+    },
+    {
+      "p": "Atlaides paredzētas HA biedriem, studentiem, pensionāriem, cilvēkiem ar invaliditāti."
+    },
+    {
+      "p": "  "
+    },
+    {
+      "p": "Biļetes uz izrādēm „Uzdzist” un „24h miega” nelielā vietu skaita dēļ iespējams iegādāties tikai Biļešu paradīzē vai rezervējot pa e-pastu laiksdejotinfo@gmail.com; biļetes nevarēs iegādāties uz vietas pirms izrādes."
+    },
+    {
+      "p": ""
+    }
+  ],
+  "subTitle2": "Izglītības programma",
+  "body2": [
+    {
+      "p": "Dalības maksa 1 meistarklasē (1,5 h) 5 EUR"
+    },
+    {
+      "p": "Dalības maksa 1 darbnīcā (3 h) 8 EUR."
+    },
+    {
+      "p": "  "
+    },
+    {
+      "p": "1,5 h meistarklases:"
+    },
+    {
+      "p": "- Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija) „Reaģējoša ķermeņa treniņš” 13.15–14.45;"
+    },
+    {
+      "p": "- Virpi Junti (Somija) Laikmetīgās dejas tehnika 10.00–11.30;"
+    },
+    {
+      "p": "- Virpi Junti (Somija) Laikmetīgās dejas tehnika 10.00–11.30."
+    },
+    {
+      "p": "  "
+    },
+    {
+      "p": "3 h meistardarbnīcas:"
+    },
+    {
+      "p": "- Karls Sakss (Igaunija) meistardarbnīca „Instinktīvais Es” 4. jūnijā 10.00;"
+    },
+    {
+      "p": "- Karls Sakss (Igaunija) meistardarbnīca „Instinktīvais Es” 5. jūnijā 12.00;"
+    },
+    {
+      "p": "- Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija) darbnīca „Reaģējoša ķermeņa treniņš” 6. jūnijā 12.00."
+    },
+    {
+      "p": "  "
+    },
+    {
+      "p": "Pieteikšanās klasēm, festivāla karšu rezervēšana: laiksdejotinfo@gmail.com"
+    }
+  ]
+}
 ]
