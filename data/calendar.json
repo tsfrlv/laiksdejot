@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2. jūnijs, sestdiena",
+    "events": [
+      {
+        "time": "17.00",
+        "venue": "Zirgu Pasts",
+        "target": "ananda",
+        "title": "Eva Kronberga „Ananda”"
+      },
+      {
+        "time": "18.00",
+        "venue": "Zirgu Pasts",
+        "target": "membra",
+        "title": "Agate Bankava „Membra”"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "future",
+        "title": "Agate Bankava un Andris Kačanovskis „Future Freak”"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "lets",
+        "title": "Eva Kronberga un Jānis Putniņš „Let`s Do Duo”"
+      }
+    ]
+  },
+  {
+    "date": "3. jūnijs, sestdiena",
+    "events": [
+      {
+        "time": "11.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "ananda",
+        "title": "Eva Kronberga „Ananda”"
+      },
+      {
+        "time": "13.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "vina",
+        "title": "Santa Grīnfelde, Inta Balode, Krista Briģe “Viņa dejo”"
+      },
+      {
+        "time": "16.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "klusais",
+        "title": "Ilze Zīriņa „Klusais gids”"
+      },
+      {
+        "time": "17.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "iam",
+        "title": "Kristīne Brīniņa “I am a Really Shy Person”"
+      },
+      {
+        "time": "20.00",
+        "venue": "Zirgu Pasts",
+        "target": "ara",
+        "title": "Olga Žitluhina “Ārā”"
+      }
+    ]
+  }
+]
