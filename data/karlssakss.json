@@ -10,14 +10,9 @@
   "images": [
     "http://www.laiksdejotfestivals.lv/data/karlssakss.jpg"
   ],
-  "date": [
-    {
-	  "p": "4. jūnijs 10.00–13.00"
-	},
-	{
-	  "p": "5. jūnijs 12.00–15.00"
-	}
-  ],
+  "date1": "4. jūnijs 10.00–13.00",
+  "date2":  "5. jūnijs 12.00–15.00",
+  "spot": "Rīgas Horeogrāfijas skola",
   "body": [
     {
       "p": "Darbnīca paredzēta tiem, kas interesējas par ķermeni un tā biomehāniskajām īpašībām. Darbnīca ir balstīta darbā ar grīdu, partnerībā, improvizācijā un ekonomiskos ķermeņa izmantošanas veidos. Mērķis ir darbnīcas beigās izveidot kustību kombināciju, kas vairāk fokusējas uz instinktiem un reakcijām, nevis emocijām vai māksliniecisku izpausmi. Cerams, darbnīcas dalībnieki gūs apstiprinājumu, ka, cīnoties pret sociālo komfortu un pēc fiziskas piepūles slaukot sviedrus no pieres, ir iespējams sasniegt instinktīvā Es stāvokli."
