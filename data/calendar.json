@@ -8,33 +8,33 @@
         "venue": "Zirgu Pasts",
         "target": "ananda",
         "chor": "Eva Kronberga ",
-        "title": "„Ananda”"
+        "title": "Ananda"
       },
       {
         "time": "18.00",
         "venue": "Zirgu Pasts",
         "target": "membra",
         "chor": "Agate Bankava ",
-        "title": "„Membra”"
+        "title": "Membra"
       },
       {
         "time": "20.00",
         "venue": "NOASS",
         "target": "future",
         "chor": "Agate Bankava un Andris Kačanovskis",
-        "title": "„Future Freak”"
+        "title": "Future Freak"
       },
       {
         "time": "20.00",
         "venue": "NOASS",
         "target": "lets",
         "chor": "Eva Kronberga un Jānis Putniņš",
-        "title": " „Let`s Do Duo”"
+        "title": " Let`s Do Duo"
       }
     ]
   },
   {
-    "date": "3. jūnijs, sestdiena",
+    "date": "3. jūnijs, svētdiena",
     "id": "2",
     "events": [
       {
@@ -42,35 +42,200 @@
         "venue": "E. Smiļģa Teātra muzejs ",
         "target": "eksperiments",
         "chor": "Alise Putniņa, Modris Opelts, Katrīna Albuže, Antra Austriņa-Seņkāne",
-        "title": " “Eksperiments ar apskāvienu”"
+        "title": " Eksperiments ar apskāvienu"
       },
       {
         "time": "13.00",
         "venue": "E. Smiļģa Teātra muzejs ",
         "target": "vina",
         "chor": "Santa Grīnfelde, Inta Balode, Krista Briģe ",
-        "title": "“Viņa dejo”"
+        "title": "Viņa dejo"
       },
       {
         "time": "16.00",
         "venue": "E. Smiļģa Teātra muzejs ",
         "target": "klusais",
         "chor": "Ilze Zīriņa",
-        "title": " „Klusais gids”"
+        "title": " Klusais gids"
+      },
+      {
+        "time": "16.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "nr12",
+        "chor": "Dmitrijs Gaitjukevičs",
+        "title": " Nr. 12"
+      },
+      {
+        "time": "16.00",
+        "venue": "E. Smiļģa Teātra muzejs ",
+        "target": "brivais",
+        "chor": "Elīna Lutce",
+        "title": " Brīvais laiks"
       },
       {
         "time": "17.00",
         "venue": "E. Smiļģa Teātra muzejs ",
         "target": "iam",
         "chor": "Kristīne Brīniņa",
-        "title": " “I am a Really Shy Person”"
+        "title": " I am a Really Shy Person"
       },
       {
         "time": "20.00",
         "venue": "Zirgu Pasts",
         "target": "ara",
         "chor": "Olga Žitluhina",
-        "title": " “Ārā”"
+        "title": " Ārā"
+      }
+    ]
+  },
+  {
+    "date": "4. jūnijs, pirmdiena",
+    "id": "3",
+    "events": [
+      {
+        "time": "10.00-13.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "karlssakss",
+        "chor": "Karls Sakss (Igaunija)",
+        "title": "Kustību darbnīca „Instinktīvais Es”"
+      },
+      {
+        "time": "13.15-14.45",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "kulirosna",
+        "chor": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
+        "title": "Reaģējoša ķermeņa treniņš"
+      },
+      {
+        "time": "10.30",
+        "venue": "NOASS",
+        "target": "24h",
+        "chor": "Kristīne Brīniņa",
+        "title": "24h miega"
+      },
+      {
+        "time": "12.00",
+        "venue": "NOASS",
+        "target": "fafabulala",
+        "chor": "Agate Bankava ",
+        "title": "Fafabulala"
+      },
+      {
+        "time": "14.00",
+        "venue": "Tallinas ielas radošais kvartāls",
+        "target": "uzdzist",
+        "chor": "Krišjānis Sants un Ieva Gaurilčikaite",
+        "title": "Uzdzist"
+      },
+      {
+        "time": "18.00",
+        "venue": "Zirgu pasts",
+        "target": "lka",
+        "chor": "LKA Laikmetīgās dejas mākslas programmas",
+        "title": "studentu darbi"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "divotne",
+        "chor": "Anna Novikova un Rūta Pūce",
+        "title": "Divotne"
+      }
+    ]
+  },
+  {
+    "date": "5. jūnijs, otrdiena",
+    "id": "4",
+    "events": [
+      {
+        "time": "10.00-11.30",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "virpijunti",
+        "chor": "Virpi Junti (Somija)",
+        "title": "Laikmetīgās dejas tehnika"
+      },
+      {
+        "time": "12.00-15.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "karlssakss",
+        "chor": "Karls Sakss (Igaunija)",
+        "title": "Kustību darbnīca „Instinktīvais Es”"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "lets",
+        "chor": "Eva Kronberga un Jānis Putniņš",
+        "title": " Let`s Do Duo"
+      },
+      {
+        "time": "19.00",
+        "venue": "NOASS",
+        "target": "pirmkustinatajs",
+        "chor": "Kūli Rosna un Kenets Flaks (Igaunija/Norvēģija)",
+        "title": "Pirmkustinātājs"
+      },
+      {
+        "time": "21.00",
+        "venue": "Zirgu Pasts",
+        "target": "garie",
+        "chor": "Gruppen Fyra (Somija)",
+        "title": "Garie vadi"
+      },
+      {
+        "time": "22.30",
+        "venue": "Zirgu pasts",
+        "target": "impro",
+        "chor": "Ilze Zīriņa",
+        "title": "Nakts improvizācijas džemsesija"
+      }
+    ]
+  },
+  {
+    "date": "6. jūnijs, trešdiena",
+    "id": "5",
+    "events": [
+      {
+        "time": "10.00-11.30",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "virpijunti",
+        "chor": "Virpi Junti (Somija)",
+        "title": "Laikmetīgās dejas tehnika"
+      },
+      {
+        "time": "12.00-15.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "kulirosna",
+        "chor": "Kūli Rosna (Igaunija) un Kenets Flaks (Norvēģija)",
+        "title": "Reaģējoša ķermeņa treniņš"
+      },
+      {
+        "time": "17.00",
+        "venue": "Zirgu Pasts",
+        "target": "ananda",
+        "chor": "Eva Kronberga ",
+        "title": "Ananda"
+      },
+      {
+        "time": "18.00",
+        "venue": "Zirgu Pasts",
+        "target": "membra",
+        "chor": "Agate Bankava ",
+        "title": "Membra"
+      },
+      {
+        "time": "18.00",
+        "venue": "Dailes teātra Mazā zāle",
+        "target": "godos",
+        "chor": "Dejas teātris Aura (Lietuva)",
+        "title": "Godos"
+      },
+      {
+        "time": "21.00",
+        "venue": "Zirgu pasts",
+        "target": "stavoklis",
+        "chor": "Karls Sakss (Igaunija)",
+        "title": "Stāvoklis un dizains"
       }
     ]
   }
