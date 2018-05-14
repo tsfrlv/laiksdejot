@@ -1,6 +1,7 @@
 [
   {
     "date": "2. jūnijs, sestdiena",
+    "id": 1,
     "events": [
       {
         "time": "17.00",
@@ -30,6 +31,7 @@
   },
   {
     "date": "3. jūnijs, sestdiena",
+    "id": 2,
     "events": [
       {
         "time": "11.00",
