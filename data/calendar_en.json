@@ -1,0 +1,221 @@
+[
+  {
+    "date": "June 2, Saturday",
+    "id": "1",
+    "events": [
+      {
+        "time": "17.00",
+        "venue": "Zirgu Pasts",
+        "target": "membra_en",
+        "chor": "Agate Bankava ",
+        "title": "Membra"
+      },
+      {
+        "time": "18.00",
+        "venue": "Zirgu Pasts",
+        "target": "ananda_en",
+        "chor": "Eva Kronberga ",
+        "title": "Ananda"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "future_en",
+        "chor": "Agate Bankava un Andris Kačanovskis",
+        "title": "Future Freak"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "lets_en",
+        "chor": "Eva Kronberga un Jānis Putniņš",
+        "title": " Let`s Do Duo"
+      }
+    ]
+  },
+  {
+    "date": "June 3, Sunday",
+    "id": "2",
+    "events": [
+      {
+        "time": "11.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "eksperiments_en",
+        "chor": "Alise Putniņa, Modris Opelts, Katrīna Albuže, Antra Austriņa-Seņkāne",
+        "title": "Experiment with a Hug"
+      },
+      {
+        "time": "13.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "vina_en",
+        "chor": "Santa Grīnfelde, Inta Balode, Krista Briģe ",
+        "title": "She Dances"
+      },
+      {
+        "time": "16.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "klusais_en",
+        "chor": "Ilze Zīriņa",
+        "title": "Quiet Guide"
+      },
+      {
+        "time": "16.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "nr12_en",
+        "chor": "Dmitrijs Gaitjukevičs",
+        "title": " Nr. 12"
+      },
+      {
+        "time": "16.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "brivais_en",
+        "chor": "Elīna Lutce",
+        "title": "Time of your own"
+      },
+      {
+        "time": "18.00",
+        "venue": "Eduards Smiļģis Theatre Museum ",
+        "target": "iam_en",
+        "chor": "Kristīne Brīniņa",
+        "title": " I am a Really Shy Person"
+      },
+      {
+        "time": "20.00",
+        "venue": "Zirgu Pasts",
+        "target": "ara_en",
+        "chor": "Olga Žitluhina",
+        "title": " Out"
+      }
+    ]
+  },
+  {
+    "date": "June 4, Monday",
+    "id": "3",
+    "events": [
+      {
+        "time": "10.00-13.00",
+        "venue": "Riga Choreography School",
+        "target": "karlssakss_en",
+        "chor": "Karl Saks (Estonia)",
+        "title": "Movement workshop „Instinctive Me”"
+      },
+      {
+        "time": "10.30",
+        "venue": "NOASS",
+        "target": "24h_en",
+        "chor": "Kristīne Brīniņa",
+        "title": "24h of Sleep"
+      },
+      {
+        "time": "12.00",
+        "venue": "NOASS",
+        "target": "fafabulala_en",
+        "chor": "Agate Bankava ",
+        "title": "Fafabulala"
+      },
+      {
+        "time": "13.15-14.45",
+        "venue": "Riga Choreography School",
+        "target": "kulirosna_en",
+        "chor": "Külli Roosna (Estonia) and Kenneth Flak (Norway)",
+        "title": "„Responsive Body Training”"
+      },
+      {
+        "time": "14.00",
+        "venue": "Tallina’s Street Creative Quarter",
+        "target": "uzdzist_en",
+        "chor": "Krišjānis Sants un Ieva Gaurilčikaite",
+        "title": "Infade"
+      },
+      {
+        "time": "18.00",
+        "venue": "Zirgu pasts",
+        "target": "lka_en",
+        "chor": "Choreographers of the Latvian Academy of Culture",
+        "title": "Diploma works"
+      },
+      {
+        "time": "20.00",
+        "venue": "NOASS",
+        "target": "divotne_en",
+        "chor": "Anna Novikova un Rūta Pūce",
+        "title": "Twoness"
+      }
+    ]
+  },
+  {
+    "date": "June 5, Tuesday",
+    "id": "4",
+    "events": [
+      {
+        "time": "10.00-11.30",
+        "venue": "Riga Choreography School",
+        "target": "virpijunti_en",
+        "chor": "Virpi Juntti (Finland)",
+        "title": "Contemporary dance technique"
+      },
+      {
+        "time": "12.00-15.00",
+        "venue": "Riga Choreography School",
+        "target": "karlssakss_en",
+        "chor": "Karl Saks (Estonia)",
+        "title": "Movement workshop „Instinctive Me”"
+      },
+      {
+        "time": "19.00",
+        "venue": "NOASS",
+        "target": "pirmkustinatajs_en",
+        "chor": "Roosna & Flak (Estonia / Norway)",
+        "title": "Prime Mover"
+      },
+      {
+        "time": "21.00",
+        "venue": "Zirgu Pasts",
+        "target": "garie_en",
+        "chor": "Dance Company Gruppen Fyra & Antti Lahti (Finland)",
+        "title": "Long Leads”"
+      },
+      {
+        "time": "22.30",
+        "venue": "Zirgu pasts",
+        "target": "impro_en",
+        "chor": "Ilze Zīriņa",
+        "title": "Night improvisation jamsession"
+      }
+    ]
+  },
+  {
+    "date": "6. jūnijs, trešdiena",
+    "id": "5",
+    "events": [
+      {
+        "time": "10.00-11.30",
+        "venue": "Riga Choreography School",
+        "target": "virpijunti_en",
+        "chor": "Virpi Juntti (Finland)",
+        "title": "Contemporary dance technique"
+      },
+      {
+        "time": "12.00-15.00",
+        "venue": "Riga Choreography School",
+        "target": "kulirosna_en",
+        "chor": "Külli Roosna (Estonia) and Kenneth Flak (Norway)",
+        "title": "„Responsive Body Training”"
+      },
+      {
+        "time": "18.00",
+        "venue": "Dailes theatre Small stage",
+        "target": "godos_en",
+        "chor": "Aura Dance Theatre (Lithuania)",
+        "title": "Godos"
+      },
+      {
+        "time": "21.00",
+        "venue": "Zirgu pasts",
+        "target": "stavoklis_en",
+        "chor": "Karl Saks (Estonia)",
+        "title": "State and Design"
+      }
+    ]
+  }
+]

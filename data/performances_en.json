@@ -1,0 +1,121 @@
+[
+  {
+    "title": "24h of Sleep",
+    "url": "http://www.google.com",
+    "target": "24h_en",
+    "showModal": true
+  },
+  {
+    "title": "Ananda",
+    "url": "http://www.flickr.com",
+    "target": "ananda_en",
+    "showModal": true
+  },
+  {
+    "title": "Out",
+    "url": "http://www.flickr.com",
+    "target": "ara_en",
+    "showModal": true
+  },
+  {
+    "title": "Time of your own",
+    "url": "http://www.google.com",
+    "target": "brivais_en",
+    "showModal": true
+  },
+  {
+    "title": "Twoness",
+    "url": "http://www.flickr.com",
+    "target": "divotne_en",
+    "showModal": true
+  },
+  {
+    "title": "Experiment with a Hug",
+    "url": "http://www.flickr.com",
+    "target": "eksperiments_en",
+    "showModal": true
+  },
+  {
+    "title": "Fafabulala",
+    "url": "http://www.google.com",
+    "target": "fafabulala_en",
+    "showModal": true
+  },
+  {
+    "title": "Future Freak",
+    "url": "http://www.flickr.com",
+    "target": "future_en",
+    "showModal": true
+  },
+  {
+    "title": "Long Leads (Pitkät Piuhat)",
+    "url": "http://www.flickr.com",
+    "target": "garie_en",
+    "showModal": true
+  },
+  {
+    "title": "Godos",
+    "url": "http://www.google.com",
+    "target": "godos_en",
+    "showModal": true
+  },
+  {
+    "title": "I am a Really Shy Person",
+    "url": "http://www.flickr.com",
+    "target": "iam_en",
+    "showModal": true
+  },
+  {
+    "title": "Quiet Guide",
+    "url": "http://www.flickr.com",
+    "target": "klusais_en",
+    "showModal": true
+  },
+  {
+    "title": "Let’s Do Duo",
+    "url": "http://www.google.com",
+    "target": "lets_en",
+    "showModal": true
+  },
+  {
+    "title": "Choreographers of the Latvian Academy of Culture",
+    "url": "http://www.flickr.com",
+    "target": "lka_en",
+    "showModal": true
+  },
+  {
+    "title": "Membra",
+    "url": "http://www.flickr.com",
+    "target": "membra_en",
+    "showModal": true
+  },  {
+  "title": "Nr. 12",
+  "url": "http://www.google.com",
+  "target": "nr12_en",
+  "showModal": true
+},
+  {
+    "title": "Prime Mover",
+    "url": "http://www.flickr.com",
+    "target": "pirmkustinatajs_en",
+    "showModal": true
+  },
+  {
+    "title": "State and Design",
+    "url": "http://www.flickr.com",
+    "target": "stavoklis_en",
+    "showModal": true
+  },
+  {
+    "title": "Infade",
+    "url": "http://www.google.com",
+    "target": "uzdzist_en",
+    "showModal": true
+  },
+  {
+    "title": "She Dances",
+    "url": "http://www.flickr.com",
+    "target": "vina_en",
+    "showModal": true
+  }
+]
