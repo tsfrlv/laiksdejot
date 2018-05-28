@@ -5,24 +5,30 @@
     }
   ],
   "images": [],
-  "body": [
+  "venue": [
     {
-      "p": "Zirgu pasts: Dzirnavu iela 46"
+      "p": "Zirgu pasts: Dzirnavu iela 46",
+      "link": "https://goo.gl/maps/KJCB5voJETs"
     },
     {
-      "p": "Peldošā galerija „Noass”: AB dambis 2"
+      "p": "Peldošā galerija „Noass”: AB dambis 2",
+      "link": "https://goo.gl/maps/H95vCyGg4WS2"
     },
     {
-      "p": "Eduarda Smiļģa Teātra muzejs: E. Smiļģa iela 37-39"
+      "p": "Eduarda Smiļģa Teātra muzejs: E. Smiļģa iela 37-39",
+      "link": "https://goo.gl/maps/UXeXnEAbjWU2"
     },
     {
-      "p": "Tallinas ielas radošais kvartāls: Tallinas iela 10"
+      "p": "Tallinas ielas radošais kvartāls: Tallinas iela 10",
+      "link": "https://goo.gl/maps/LppLUtmTdPs"
     },
     {
-      "p": "Dailes teātris: Brīvības iela 75"
+      "p": "Dailes teātris: Brīvības iela 75",
+      "link": "https://goo.gl/maps/RRviH4rTgL82"
     },
     {
-      "p": "Rīgas Horeogrāfijas skola: Kalnciema iela 12"
+      "p": "Rīgas Horeogrāfijas skola: Kalnciema iela 12",
+      "link": "https://goo.gl/maps/18TQWuaxLs32"
     }
   ]
 }
