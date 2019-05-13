@@ -10,6 +10,11 @@
     "showModal": true
   },
   {
+    "title": "Suržits Nongmeikapams (Indija)",
+    "target": "ehool",
+    "showModal": true
+  },
+  {
     "title": "Mišele Bulē (ASV/Filipīnas)",
     "target": "michelle_rhv",
     "showModal": true
@@ -17,11 +22,6 @@
   {
     "title": "Mišele Bulē (ASV/Filipīnas)",
     "target": "michelle_noass",
-    "showModal": true
-  },
-  {
-    "title": "Suržits Nongmeikapams (Indija)",
-    "target": "ehool",
     "showModal": true
   }
 
