@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="meta fixed">
+    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="price fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
@@ -25,37 +25,38 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="html" value="4" />
-          <entry key="js" value="9" />
-          <entry key="json" value="30" />
+          <entry key="html" value="6" />
+          <entry key="js" value="14" />
+          <entry key="json" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
-          <entry key="JSON" value="30" />
-          <entry key="JavaScript" value="9" />
+          <entry key="HTML" value="6" />
+          <entry key="JSON" value="39" />
+          <entry key="JavaScript" value="14" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="64" />
-          <entry key="json" value="270" />
-          <entry key="txt" value="61" />
+          <entry key="json" value="316" />
+          <entry key="txt" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="64" />
-          <entry key="JSON" value="270" />
-          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="JSON" value="316" />
+          <entry key="PLAIN_TEXT" value="147" />
         </counts>
       </usages-collector>
     </session>
@@ -66,47 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/data/calendar.json">
+        <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="142" selection-start-line="142" selection-end-line="148" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/data/workshops.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/app.daa7627b4bbf584287fd.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/en/static/js/app.746486e2d2c9e09d940a.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/en/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="135" selection-start-column="135" selection-end-column="135" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="135" selection-start-column="135" selection-end-column="135" />
+            <state relative-caret-position="90">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -114,26 +78,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="36" />
+            <state relative-caret-position="193">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/en/the.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/en/passport.json">
+        <entry file="file://$PROJECT_DIR$/2019/data/tai_dzi.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="19" column="134" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="134" />
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/en/tai_dzi.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/data/inta.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1043" selection-start-line="16" selection-start-column="1043" selection-end-line="16" selection-end-column="1043" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/static/js/app.6a393420bbe66b0696a1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="453" selection-start-column="453" selection-end-column="453" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/app.8130c4fad9ff1dd4dc95.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/data/cai_ran.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -176,9 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/workshops.json" />
-        <option value="$PROJECT_DIR$/data/virpijunti.json" />
-        <option value="$PROJECT_DIR$/data/kulirosna.json" />
         <option value="$PROJECT_DIR$/data/karlssakss.json" />
         <option value="$PROJECT_DIR$/data/calendar.json" />
         <option value="$PROJECT_DIR$/data/home.json" />
@@ -219,14 +226,17 @@
         <option value="$PROJECT_DIR$/2019/en/michelle_noass.json" />
         <option value="$PROJECT_DIR$/2019/en/cai_ran.json" />
         <option value="$PROJECT_DIR$/2019/en/the.json" />
-        <option value="$PROJECT_DIR$/2019/en/inta.json" />
         <option value="$PROJECT_DIR$/2019/data/tickets.json" />
         <option value="$PROJECT_DIR$/2019/data/calendar.json" />
-        <option value="$PROJECT_DIR$/2019/data/venuri.json" />
         <option value="$PROJECT_DIR$/2019/data/workshops.json" />
-        <option value="$PROJECT_DIR$/2019/en/venuri.json" />
-        <option value="$PROJECT_DIR$/en/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/2019/data/venuri.json" />
+        <option value="$PROJECT_DIR$/2019/en/venuri.json" />
+        <option value="$PROJECT_DIR$/2019/data/tai_dzi.json" />
+        <option value="$PROJECT_DIR$/2019/en/tai_dzi.json" />
+        <option value="$PROJECT_DIR$/2019/data/inta.json" />
+        <option value="$PROJECT_DIR$/2019/en/inta.json" />
+        <option value="$PROJECT_DIR$/en/index.html" />
       </list>
     </option>
   </component>
@@ -253,22 +263,6 @@
             <path>
               <item name="laiksdejot" type="b2602c69:ProjectViewProjectNode" />
               <item name="laiksdejot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laiksdejot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laiksdejot" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laiksdejot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laiksdejot" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laiksdejot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laiksdejot" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,17 +292,17 @@
     <property name="node.js.selected.package.prettier" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\assets\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/en" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2019/en" />
       <recent name="C:\Users\User\WebstormProjects\laiksdejot" />
       <recent name="C:\Users\User\WebstormProjects\laiksdejot\static" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\assets\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -358,48 +352,7 @@
       <workItem from="1558106704098" duration="257000" />
       <workItem from="1558278018952" duration="6541000" />
       <workItem from="1558369286737" duration="3836000" />
-    </task>
-    <task id="LOCAL-00003" summary="data in jsons new f">
-      <created>1524666799130</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666799130</updated>
-    </task>
-    <task id="LOCAL-00004" summary="data in jsons new f">
-      <created>1524666894253</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666894253</updated>
-    </task>
-    <task id="LOCAL-00005" summary="data in jsons new fp">
-      <created>1524667269684</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1524667269684</updated>
-    </task>
-    <task id="LOCAL-00006" summary="data in jsons new fa">
-      <created>1524668500280</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1524668500280</updated>
-    </task>
-    <task id="LOCAL-00007" summary="data in jsons new ffdg">
-      <created>1524668848276</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1524668848276</updated>
-    </task>
-    <task id="LOCAL-00008" summary="data in jsons new aboit">
-      <created>1524669529042</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1524669529042</updated>
+      <workItem from="1558781746326" duration="4302000" />
     </task>
     <task id="LOCAL-00009" summary="data in jsons new p">
       <created>1524671718765</created>
@@ -702,16 +655,59 @@
       <option name="project" value="LOCAL" />
       <updated>1558372984512</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="price fixed">
+      <created>1558781956701</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1558781956704</updated>
+    </task>
+    <task id="LOCAL-00053" summary="venuri and tai dzi info">
+      <created>1558859598045</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1558859598045</updated>
+    </task>
+    <task id="LOCAL-00054" summary="bug in en fixed">
+      <created>1558859736986</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1558859736986</updated>
+    </task>
+    <task id="LOCAL-00055" summary="tai dzi pic fixed">
+      <created>1558859987062</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1558859987062</updated>
+    </task>
+    <task id="LOCAL-00056" summary="supporter logos">
+      <created>1558875475757</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1558875475758</updated>
+    </task>
+    <task id="LOCAL-00057" summary="supporter logos">
+      <created>1558875518831</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1558875518831</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68809000" />
+    <option name="totallyTimeSpent" value="73111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.2446386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.24919094" />
       <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" weight="0.24526316" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -726,6 +722,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.38767123" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -775,11 +772,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="home apraksts" />
-    <MESSAGE value="bildes" />
-    <MESSAGE value="title changes" />
-    <MESSAGE value="images in workshops" />
-    <MESSAGE value="images png" />
     <MESSAGE value="tickets" />
     <MESSAGE value="calendar" />
     <MESSAGE value="calendar full" />
@@ -800,18 +792,14 @@
     <MESSAGE value="venuri workshop" />
     <MESSAGE value="lv venuri" />
     <MESSAGE value="shmeta" />
-    <option name="LAST_COMMIT_MESSAGE" value="shmeta" />
+    <MESSAGE value="venuri and tai dzi info" />
+    <MESSAGE value="bug in en fixed" />
+    <MESSAGE value="tai dzi pic fixed" />
+    <MESSAGE value="price fixed" />
+    <MESSAGE value="supporter logos" />
+    <option name="LAST_COMMIT_MESSAGE" value="supporter logos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2016/en/info/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/izrades/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/kalendars/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/klimackova/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/lka/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/meistarklases/branko.html" />
-    <entry file="file://$PROJECT_DIR$/2018/static/js/app.371b592ad995f49578c7.js" />
-    <entry file="file://$PROJECT_DIR$/2018/static/js/vendor.725b34352ad13249af1d.js" />
-    <entry file="file://$PROJECT_DIR$/2018/static/css/app.b2b2a11795c72730b02b7ac65167b6e3.css" />
     <entry file="file://$PROJECT_DIR$/2016/en/skaveta/index.html" />
     <entry file="file://$PROJECT_DIR$/2017/index.html" />
     <entry file="file://$PROJECT_DIR$/2016/index.html" />
@@ -927,20 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1142" selection-start-line="16" selection-start-column="1142" selection-end-line="16" selection-end-column="1142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/tickets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -948,12 +922,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.11ea396adc61a54066ef.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.191e64409af02b49d1fe.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.11ea396adc61a54066ef.js" />
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.191e64409af02b49d1fe.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/the.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -961,47 +931,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/the.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.c312e78a9130861a45d8.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/calendar.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="2130">
           <caret line="142" selection-start-line="142" selection-end-line="148" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.c312e78a9130861a45d8.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/passport.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="134" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/data/workshops.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="255">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
         </state>
       </provider>
@@ -1012,10 +952,17 @@
     <entry file="file://$PROJECT_DIR$/en/static/js/app.746486e2d2c9e09d940a.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/en/index.html">
+    <entry file="file://$PROJECT_DIR$/2019/en/the.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="135" selection-start-column="135" selection-end-column="135" />
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/passport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="134" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="134" />
         </state>
       </provider>
     </entry>
@@ -1023,6 +970,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="135" selection-start-column="135" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/tickets_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/tickets.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.d97b5f62ccab24d17eaf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/cai_ran.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.8130c4fad9ff1dd4dc95.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.be9f3dd01aa0624d0711.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/tai_dzi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/tai_dzi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/inta.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1043" selection-start-line="16" selection-start-column="1043" selection-end-line="16" selection-end-column="1043" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.6a393420bbe66b0696a1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="453" selection-start-column="453" selection-end-column="453" />
         </state>
       </provider>
     </entry>
