@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="price fixed">
+      <change afterPath="$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/ehool.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/ehool.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/app.5a42c8e557497bf7c85d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/app.5a42c8e557497bf7c85d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.27e47d6d8883bef6185ee766c4585547.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.27e47d6d8883bef6185ee766c4585547.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/10458610_669110989863343_4282501409387186033_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/ASEF-Mobility First logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/Dance.lv.-zuranals.logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/LKA_logo_LV-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/LKA_logo_LV-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/Party-new-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/dome_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/kkf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo_garsh_web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/noass.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/poster.553df4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.4b39fb50738ee93b054f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.4b39fb50738ee93b054f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.e5daa52e7c4ec47cb3ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" beforeDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,41 +50,41 @@
     <session id="938507836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="html" value="6" />
-          <entry key="js" value="14" />
-          <entry key="json" value="39" />
+          <entry key="html" value="11" />
+          <entry key="js" value="21" />
+          <entry key="json" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="6" />
-          <entry key="JSON" value="39" />
-          <entry key="JavaScript" value="14" />
+          <entry key="HTML" value="11" />
+          <entry key="JSON" value="47" />
+          <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="64" />
-          <entry key="json" value="316" />
-          <entry key="txt" value="147" />
+          <entry key="json" value="340" />
+          <entry key="txt" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="64" />
-          <entry key="JSON" value="316" />
-          <entry key="PLAIN_TEXT" value="147" />
+          <entry key="JSON" value="340" />
+          <entry key="PLAIN_TEXT" value="174" />
         </counts>
       </usages-collector>
     </session>
@@ -67,6 +95,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/data/workshops.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/data/ehool.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/data/the.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -76,52 +131,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
+        <entry file="file://$PROJECT_DIR$/2019/en/the.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="195">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/data/tai_dzi.json">
+        <entry file="file://$PROJECT_DIR$/2019/en/ehool.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="178">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/en/tai_dzi.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/data/inta.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1043" selection-start-line="16" selection-start-column="1043" selection-end-line="16" selection-end-column="1043" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/en/static/js/app.6a393420bbe66b0696a1.js">
+        <entry file="file://$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -129,21 +157,16 @@
         <entry file="file://$PROJECT_DIR$/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="453" selection-start-column="453" selection-end-column="453" />
+              <caret column="418" selection-start-column="418" selection-end-column="418" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/app.8130c4fad9ff1dd4dc95.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019/data/cai_ran.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" selection-end-line="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -186,8 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/karlssakss.json" />
-        <option value="$PROJECT_DIR$/data/calendar.json" />
         <option value="$PROJECT_DIR$/data/home.json" />
         <option value="$PROJECT_DIR$/data/venues.json" />
         <option value="$PROJECT_DIR$/404.html" />
@@ -221,7 +242,6 @@
         <option value="$PROJECT_DIR$/2019/en/gans.json" />
         <option value="$PROJECT_DIR$/2019/en/ilze.json" />
         <option value="$PROJECT_DIR$/2019/data/ilze.json" />
-        <option value="$PROJECT_DIR$/2019/en/ehool.json" />
         <option value="$PROJECT_DIR$/2019/en/michelle_rhv.json" />
         <option value="$PROJECT_DIR$/2019/en/michelle_noass.json" />
         <option value="$PROJECT_DIR$/2019/en/cai_ran.json" />
@@ -234,8 +254,11 @@
         <option value="$PROJECT_DIR$/2019/en/venuri.json" />
         <option value="$PROJECT_DIR$/2019/data/tai_dzi.json" />
         <option value="$PROJECT_DIR$/2019/en/tai_dzi.json" />
-        <option value="$PROJECT_DIR$/2019/data/inta.json" />
+        <option value="$PROJECT_DIR$/2019/data/michelle_noass.json" />
         <option value="$PROJECT_DIR$/2019/en/inta.json" />
+        <option value="$PROJECT_DIR$/2019/data/inta.json" />
+        <option value="$PROJECT_DIR$/2019/data/ehool.json" />
+        <option value="$PROJECT_DIR$/2019/en/ehool.json" />
         <option value="$PROJECT_DIR$/en/index.html" />
       </list>
     </option>
@@ -246,7 +269,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
@@ -352,35 +375,8 @@
       <workItem from="1558106704098" duration="257000" />
       <workItem from="1558278018952" duration="6541000" />
       <workItem from="1558369286737" duration="3836000" />
-      <workItem from="1558781746326" duration="4302000" />
-    </task>
-    <task id="LOCAL-00009" summary="data in jsons new p">
-      <created>1524671718765</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1524671718765</updated>
-    </task>
-    <task id="LOCAL-00010" summary="izrazu un meistarklasu apraksti">
-      <created>1526199914016</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1526199914016</updated>
-    </task>
-    <task id="LOCAL-00011" summary="home apraksts">
-      <created>1526200282505</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1526200282505</updated>
-    </task>
-    <task id="LOCAL-00012" summary="home apraksts">
-      <created>1526201636784</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1526201636784</updated>
+      <workItem from="1558781746326" duration="6821000" />
+      <workItem from="1559374145702" duration="312000" />
     </task>
     <task id="LOCAL-00013" summary="bildes">
       <created>1526207951905</created>
@@ -697,17 +693,45 @@
       <option name="project" value="LOCAL" />
       <updated>1558875518831</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="price fixed">
+      <created>1558875990819</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1558875990820</updated>
+    </task>
+    <task id="LOCAL-00059" summary="en logo fix">
+      <created>1558876220665</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1558876220665</updated>
+    </task>
+    <task id="LOCAL-00060" summary="logo again fixed">
+      <created>1558942013287</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1558942013288</updated>
+    </task>
+    <task id="LOCAL-00061" summary="price fixed">
+      <created>1558943938106</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1558943938106</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73111000" />
+    <option name="totallyTimeSpent" value="75942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.24919094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.25323623" />
       <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" weight="0.24526316" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -719,14 +743,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329927" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.38767123" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32739726" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -772,8 +796,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="tickets" />
-    <MESSAGE value="calendar" />
     <MESSAGE value="calendar full" />
     <MESSAGE value="workshops date" />
     <MESSAGE value="home pics" />
@@ -795,21 +817,13 @@
     <MESSAGE value="venuri and tai dzi info" />
     <MESSAGE value="bug in en fixed" />
     <MESSAGE value="tai dzi pic fixed" />
-    <MESSAGE value="price fixed" />
     <MESSAGE value="supporter logos" />
-    <option name="LAST_COMMIT_MESSAGE" value="supporter logos" />
+    <MESSAGE value="en logo fix" />
+    <MESSAGE value="logo again fixed" />
+    <MESSAGE value="price fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="price fixed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2016/en/skaveta/index.html" />
-    <entry file="file://$PROJECT_DIR$/2017/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/index.html" />
-    <entry file="file://$PROJECT_DIR$/2018/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/singe/index.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/meistarklases/scavetta.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/meistarklases/martini.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/meistarklases/klimackova.html" />
-    <entry file="file://$PROJECT_DIR$/2016/en/meistarklases/index.html" />
     <entry file="file://$PROJECT_DIR$/2019/en/all.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -887,13 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/ehool.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="267" selection-start-line="22" selection-start-column="267" selection-end-line="22" selection-end-column="267" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/en/michelle_noass.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -924,13 +931,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.11ea396adc61a54066ef.js" />
     <entry file="file://$PROJECT_DIR$/en/static/js/app.191e64409af02b49d1fe.js" />
-    <entry file="file://$PROJECT_DIR$/2019/data/the.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.c312e78a9130861a45d8.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/calendar.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -939,37 +939,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/workshops.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.daa7627b4bbf584287fd.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.746486e2d2c9e09d940a.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/the.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.daa7627b4bbf584287fd.js" />
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.746486e2d2c9e09d940a.js" />
     <entry file="file://$PROJECT_DIR$/2019/en/passport.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="134" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="135" selection-start-column="135" selection-end-column="135" />
         </state>
       </provider>
     </entry>
@@ -985,16 +960,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.d97b5f62ccab24d17eaf.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.d97b5f62ccab24d17eaf.js" />
     <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -1002,19 +968,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/cai_ran.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.8130c4fad9ff1dd4dc95.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.be9f3dd01aa0624d0711.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.8130c4fad9ff1dd4dc95.js" />
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.be9f3dd01aa0624d0711.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/tai_dzi.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1029,27 +984,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.6a393420bbe66b0696a1.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/app.07a21c84fa3d0d2e0cc3.js" />
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.94e8fd72fe01af8a3b7f.js" />
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.65189ce66e13ded2ddd3.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/app.16d3f46989ecfd8b4ea1.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/inta.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1043" selection-start-line="16" selection-start-column="1043" selection-end-line="16" selection-end-column="1043" />
+        <state relative-caret-position="195">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/michelle_noass.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/michelle_rhv.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="195">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.6a393420bbe66b0696a1.js">
+    <entry file="file://$PROJECT_DIR$/static/js/app.4b39fb50738ee93b054f.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.5a42c8e557497bf7c85d.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/cai_ran.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/venuri.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/workshops.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/the.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/data/ehool.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/the.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/ehool.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/en/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="453" selection-start-column="453" selection-end-column="453" />
+          <caret column="418" selection-start-column="418" selection-end-column="418" />
         </state>
       </provider>
     </entry>
