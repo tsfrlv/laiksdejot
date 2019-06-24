@@ -7,7 +7,8 @@
   "date": "MONDAY, June 10, 19.00",
   "spot": "Zirgu Pasts",
   "images": [
-    "http://www.laiksdejotfestivals.lv/2019/data/monomyth.jpg"
+    "http://www.laiksdejotfestivals.lv/2019/data/monomyth.jpg",
+    "http://www.laiksdejotfestivals.lv/en/static/img/michelle_logo.png"
   ],
   "crew": [
     {
@@ -36,6 +37,12 @@
     },
     {
       "p": "Additional support: New York Foundation for the Arts Choreography Fellowship, Cloud Prize, Lighthouse Works, Yaddo, The MacDowell Colony, Bemis Center for Contemporary Arts, Michelle Boulé’s Leadership Circle, individual donors."
+    },
+    {
+      "p": "."
+    },
+    {
+      "p": "This tour was made possible by a Foundation for Contemporary Arts Emergency Grant, and through private donations. Thank you to Bob Falato, Jiwon Son, Angela Vock, Stevie May, Margi Cole, and to Michelle's past supporters and Leadership Circle."
     }
   ],
   "body": [
