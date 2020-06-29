@@ -2,10 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="dates in calendar fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/data/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/invisible.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/invisible.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" beforeDir="false" afterPath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/en/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/en/static/css/app.e6e5c2ceb09e52f51f19065fb4977458.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/en/static/css/app.e6e5c2ceb09e52f51f19065fb4977458.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laiksdejot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/2016/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/2017/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/cai_ran.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/cai_ran.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/chiname.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/chiname.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ehool.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/gans.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/gans.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/ideal_female.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ideal_female.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/ilze.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ilze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/inta.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/inta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/invisible.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/labrys.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/labrys.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/last_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/last_time.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/michelle_noass.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_noass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/michelle_rhv.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_rhv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/monomyth.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/monomyth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/passport.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/passport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/tai_dzi.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/tai_dzi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/the.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/the.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/venuri.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/venuri.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/00_NAC MASTER LOGO-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/00_NAC MASTER LOGO-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/10458610_669110989863343_4282501409387186033_n.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/10458610_669110989863343_4282501409387186033_n.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/ASEF-Mobility First logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/ASEF-Mobility First logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/China Cultural Center in Riga.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/China Cultural Center in Riga.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/Dance.lv.-zuranals.logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/Dance.lv.-zuranals.logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/LKA_logo_LV-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/LKA_logo_LV-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/LKA_logo_LV-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/LKA_logo_LV-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/M1 logo-2mb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/M1 logo-2mb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/Party-new-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/Party-new-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/dome_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/dome_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/kkf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/kkf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/logo_garsh_web.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/logo_garsh_web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/logos2_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/logos2_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/michelle_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/michelle_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/noass.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/noass.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/img/poster.553df4c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/poster.553df4c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/manifest.2ae2e69a05c33dfc65f8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
@@ -22,30 +73,47 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="938507836">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="3" />
+          <entry key="js" value="3" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="laiksdejot" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2017/en/index.html" />
         <option value="$PROJECT_DIR$/2016/en/andreamartini/index.html" />
         <option value="$PROJECT_DIR$/2016/en/atbalsts/index.html" />
         <option value="$PROJECT_DIR$/2016/en/bankava/index.html" />
@@ -134,13 +201,20 @@
         <option value="$PROJECT_DIR$/2019/en/invisible.json" />
         <option value="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" />
         <option value="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" />
+        <option value="$PROJECT_DIR$/404.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -148,34 +222,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\User\WebstormProjects\laiksdejot" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\User\WebstormProjects\laiksdejot" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\User\WebstormProjects\laiksdejot" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="laiksdejot" type="b2602c69:ProjectViewProjectNode" />
               <item name="laiksdejot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="2019" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -194,17 +262,18 @@
     <property name="node.js.selected.package.prettier" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\assets\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2019" />
       <recent name="$PROJECT_DIR$/en" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2019/en" />
       <recent name="C:\Users\User\WebstormProjects\laiksdejot" />
-      <recent name="C:\Users\User\WebstormProjects\laiksdejot\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2019" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\assets\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,8 +288,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="js.build_tools.gulp">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/laiksdejot/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/laiksdejot/2019/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -229,6 +304,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -256,6 +341,7 @@
       <workItem from="1558369286737" duration="3836000" />
       <workItem from="1558781746326" duration="6821000" />
       <workItem from="1559374145702" duration="312000" />
+      <workItem from="1593463913528" duration="1487000" />
     </task>
     <task id="LOCAL-00013" summary="bildes">
       <created>1526207951905</created>
@@ -604,17 +690,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76197000" />
+    <option name="totallyTimeSpent" value="77684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.24499473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.37864077" />
       <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" weight="0.24526316" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847896" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -622,7 +708,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329927" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3883495" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -681,20 +767,6 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -703,6 +775,9 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -735,41 +810,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="price fixed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/en/labrys.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="42" column="229" selection-start-line="42" selection-start-column="229" selection-end-line="42" selection-end-column="229" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/chiname.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="51" column="156" selection-start-line="51" selection-start-column="156" selection-end-line="51" selection-end-column="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/data/monomyth.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="54" column="73" selection-start-line="54" selection-start-column="73" selection-end-line="54" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/monomyth.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="54" column="73" selection-start-line="54" selection-start-column="73" selection-end-line="54" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/gans.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/data/ilze.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -777,38 +817,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/ilze.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/ilze.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/michelle_noass.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/michelle_noass.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="545" selection-start-line="16" selection-start-column="545" selection-end-line="16" selection-end-column="545" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/michelle_rhv.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/michelle_rhv.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/cai_ran.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/cai_ran.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="1480" selection-start-line="25" selection-start-column="1480" selection-end-line="25" selection-end-column="1480" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -824,13 +857,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.daa7627b4bbf584287fd.js" />
     <entry file="file://$PROJECT_DIR$/en/static/js/app.746486e2d2c9e09d940a.js" />
-    <entry file="file://$PROJECT_DIR$/2019/en/passport.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="134" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/data/tickets_en.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-280" />
@@ -844,7 +870,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.d97b5f62ccab24d17eaf.js" />
-    <entry file="file://$PROJECT_DIR$/2019/en/venuri.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/venuri.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
@@ -860,7 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/tai_dzi.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/tai_dzi.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
@@ -893,7 +919,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/inta.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/inta.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
@@ -937,14 +963,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/the.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/the.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/ehool.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/ehool.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
@@ -952,14 +978,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js" />
-    <entry file="file://$PROJECT_DIR$/en/index.html">
+    <entry file="file://$PROJECT_DIR$/2019/en/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="418" selection-start-column="418" selection-end-column="418" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/invisible.json">
+    <entry file="file://$PROJECT_DIR$/2019/eng/invisible.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
@@ -973,20 +999,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js">
+    <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/static/js/app.5927a2a5cbad8179ed8f.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="978" selection-start-column="978" selection-end-column="978" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/eng/passport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
