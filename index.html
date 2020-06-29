@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LAIKS DEJOT // TIME TO DANCE</title>
+</head>
+<body>
+<style>
+    html, body {
+        height: 100%;
+        width: 100%;
+        position: relative;
+        margin: 0;
+        padding: 0;
+    }
+    #frameContainer {
+        position: fixed;
+        height: 100%;
+        top:0px;
+        left: 160px;
+        right:0px;
+        bottom:0px;
+        z-index:1;
+    }
+    #main_iframe{
+        height: 100%;
+        width: 100%;
+    }
+    nav {position:fixed;
+        left:0px;
+        top:0px;
+        bottom:0px;
+        width:160px;
+        background:#333;
+        color:#fff;
+        z-index:2
+    }
+</style>
+
+<nav>
+    <ul>
+        <li><a href="http://www.laiksdejotfestivals.lv/2020/" target="product_iframe">2020</a> </li>
+        <li><a href="http://www.laiksdejotfestivals.lv/2019/" target="product_iframe">2019</a> </li>
+        <li><a href="http://www.laiksdejotfestivals.lv/2018/" target="product_iframe">2018</a> </li>
+        <li><a href="http://www.laiksdejotfestivals.lv/2017/" target="product_iframe">2017</a> </li>
+        <li><a href="http://www.laiksdejotfestivals.lv/2016/" target="product_iframe">2016</a> </li>
+    </ul>
+</nav>
+
+<div id="frameContainer">
+  <iframe src="http://www.laiksdejotfestivals.lv/2020/" frameborder="0" name="product_iframe" id="main_iframe"></iframe>
+</div>
+</body>
+</html>
