@@ -1,63 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="dates in calendar fixed">
-      <change afterPath="$PROJECT_DIR$/2019/en/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/en/static/css/app.e6e5c2ceb09e52f51f19065fb4977458.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/en/static/css/app.e6e5c2ceb09e52f51f19065fb4977458.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laiksdejot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/2016/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/2017/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/cai_ran.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/cai_ran.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/chiname.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/chiname.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ehool.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/gans.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/gans.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/ideal_female.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ideal_female.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/ilze.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ilze.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/inta.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/inta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/invisible.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/labrys.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/labrys.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/last_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/last_time.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/michelle_noass.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_noass.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/michelle_rhv.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_rhv.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/monomyth.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/monomyth.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/passport.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/passport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/tai_dzi.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/tai_dzi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/the.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/the.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/en/venuri.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/venuri.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/css/app.9c856918564677b4cfba33f0ea53cd5e.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/00_NAC MASTER LOGO-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/00_NAC MASTER LOGO-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/10458610_669110989863343_4282501409387186033_n.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/10458610_669110989863343_4282501409387186033_n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/ASEF-Mobility First logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/ASEF-Mobility First logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/China Cultural Center in Riga.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/China Cultural Center in Riga.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/Dance.lv.-zuranals.logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/Dance.lv.-zuranals.logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/LKA_logo_LV-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/LKA_logo_LV-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/LKA_logo_LV-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/LKA_logo_LV-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/M1 logo-2mb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/M1 logo-2mb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/Party-new-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/Party-new-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/dome_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/dome_logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/kkf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/kkf.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/logo_garsh_web.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/logo_garsh_web.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/logos2_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/logos2_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/michelle_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/michelle_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/noass.gif" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/noass.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/img/poster.553df4c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/img/poster.553df4c.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/manifest.2ae2e69a05c33dfc65f8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" afterDir="false" />
+    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="put all in years i guess">
+      <change afterPath="$PROJECT_DIR$/2020/data/lost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/lost1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/lost2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/naktene.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/naktene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/naktene1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/naktene2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/naktene3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/other_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/other_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/other_side1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/other_side2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/was_here.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/was_here.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/was_here1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/was_here2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/was_here3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,34 +41,44 @@
     <session id="938507836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="3" />
-          <entry key="js" value="3" />
-          <entry key="json" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="8" />
+          <entry key="js" value="4" />
+          <entry key="json" value="5" />
+          <entry key="map" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SourceMap" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="519" />
+          <entry key="json" value="245" />
+          <entry key="map" value="19" />
+          <entry key="txt" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="519" />
+          <entry key="JSON" value="245" />
+          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="SourceMap" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -113,7 +87,81 @@
     <favorites_list name="laiksdejot" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/data/naktene.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/data/lost.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/data/was_here.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2020/data/other_side.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="359" selection-start-column="359" selection-end-column="359" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29881" selection-start-column="29848" selection-end-column="29881" />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,14 +178,43 @@
       <find>css</find>
       <find>background-image</find>
       <find>Mišele Bulē</find>
+      <find>/static/img/poster.553df4c.jpg</find>
+      <find>2019/static/img/poster.</find>
+      <find>/static/img/104</find>
+      <find>/static/img/AS</find>
+      <find>/static/img/Dan</find>
+      <find>/static/img/do</find>
+      <find>/static/img/kk</find>
+      <find>/static/img/LKA</find>
+      <find>/static/img/log</find>
+      <find>/static/img/noa</find>
+      <find>/static/img/Par</find>
+      <find>/static/</find>
+      <find>2018/2019/static/img</find>
+      <find>&lt;a href=&quot;http://www.laiksdejotfestivals.lv/&quot;&gt;LV&lt;/a&gt;</find>
+      <find>LV&lt;/a&gt;</find>
+      <find>/www.laiksdejotfestivals.lv/\&quot;&gt;LV</find>
+      <find>http://www.laiksdejotfestivals.lv</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
       <replace>png</replace>
       <replace>Michelle Boulé</replace>
+      <replace>/2019/static/img/poster.553df4c.jpg</replace>
+      <replace>/2019/static/img/104</replace>
+      <replace>/2019/static/img/AS</replace>
+      <replace>/2019/static/img/Dan</replace>
+      <replace>/2019/static/img/do</replace>
+      <replace>/2019/static/img/kk</replace>
+      <replace>/2019/static/img/LKA</replace>
+      <replace>/2019/static/img/log</replace>
+      <replace>/2019/static/img/noa</replace>
+      <replace>/2019/static/img/Par</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\User\WebstormProjects\laiksdejot\2018</dir>
+      <dir>$PROJECT_DIR$/2019/en</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -151,14 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2016/en/andreamartini/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/atbalsts/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/bankava/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/biletes/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/branko/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/fine5/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/info/index.html" />
-        <option value="$PROJECT_DIR$/2016/en/izrades/index.html" />
         <option value="$PROJECT_DIR$/2016/en/klimackova/index.html" />
         <option value="$PROJECT_DIR$/2016/en/lka/index.html" />
         <option value="$PROJECT_DIR$/2016/en/meistarklases/index.html" />
@@ -186,7 +255,6 @@
         <option value="$PROJECT_DIR$/2019/data/tickets.json" />
         <option value="$PROJECT_DIR$/2019/data/calendar.json" />
         <option value="$PROJECT_DIR$/2019/data/workshops.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/2019/data/venuri.json" />
         <option value="$PROJECT_DIR$/2019/en/venuri.json" />
         <option value="$PROJECT_DIR$/2019/data/tai_dzi.json" />
@@ -202,6 +270,15 @@
         <option value="$PROJECT_DIR$/en/static/js/app.b2988434b479a1a79ac9.js" />
         <option value="$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" />
         <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/2019/index.html" />
+        <option value="$PROJECT_DIR$/2019/en/index.html" />
+        <option value="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" />
+        <option value="$PROJECT_DIR$/2020/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/2020/data/naktene.json" />
+        <option value="$PROJECT_DIR$/2020/data/lost.json" />
+        <option value="$PROJECT_DIR$/2020/data/other_side.json" />
+        <option value="$PROJECT_DIR$/2020/data/was_here.json" />
       </list>
     </option>
   </component>
@@ -214,7 +291,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="710" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,6 +322,17 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="2019" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="2020" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="laiksdejot" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="2020" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -262,18 +350,19 @@
     <property name="node.js.selected.package.prettier" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020/data" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/2019" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
+      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020/data" />
       <recent name="$PROJECT_DIR$/2019" />
       <recent name="$PROJECT_DIR$/en" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2019/en" />
-      <recent name="C:\Users\User\WebstormProjects\laiksdejot" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2019" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\oldIndex" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\data" />
-      <recent name="C:\Users\tsfrlv\WebstormProjects\laiksdejot\assets\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,70 +430,9 @@
       <workItem from="1558369286737" duration="3836000" />
       <workItem from="1558781746326" duration="6821000" />
       <workItem from="1559374145702" duration="312000" />
-      <workItem from="1593463913528" duration="1487000" />
-    </task>
-    <task id="LOCAL-00013" summary="bildes">
-      <created>1526207951905</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1526207951905</updated>
-    </task>
-    <task id="LOCAL-00014" summary="title changes">
-      <created>1526209526609</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1526209526609</updated>
-    </task>
-    <task id="LOCAL-00015" summary="images in workshops">
-      <created>1526209954813</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1526209954813</updated>
-    </task>
-    <task id="LOCAL-00016" summary="images in workshops">
-      <created>1526210089707</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1526210089707</updated>
-    </task>
-    <task id="LOCAL-00017" summary="images in workshops">
-      <created>1526210141813</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1526210141813</updated>
-    </task>
-    <task id="LOCAL-00018" summary="images in workshops">
-      <created>1526211180843</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1526211180843</updated>
-    </task>
-    <task id="LOCAL-00019" summary="images in workshops">
-      <created>1526211222447</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1526211222447</updated>
-    </task>
-    <task id="LOCAL-00020" summary="images in workshops">
-      <created>1526211372151</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1526211372151</updated>
-    </task>
-    <task id="LOCAL-00021" summary="images in workshops">
-      <created>1526211623327</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1526211623327</updated>
+      <workItem from="1593463913528" duration="9958000" />
+      <workItem from="1595801666470" duration="226000" />
+      <workItem from="1597784305236" duration="2705000" />
     </task>
     <task id="LOCAL-00022" summary="images in workshops">
       <created>1526211744515</created>
@@ -686,17 +714,80 @@
       <option name="project" value="LOCAL" />
       <updated>1558943938106</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="put all in years i guess">
+      <created>1593465630350</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1593465630353</updated>
+    </task>
+    <task id="LOCAL-00063" summary="fix I guess">
+      <created>1593466021333</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1593466021333</updated>
+    </task>
+    <task id="LOCAL-00064" summary="image fix">
+      <created>1593466275457</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1593466275457</updated>
+    </task>
+    <task id="LOCAL-00065" summary="img fix">
+      <created>1593466678293</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1593466678294</updated>
+    </task>
+    <task id="LOCAL-00066" summary="something something should work">
+      <created>1593469669504</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1593469669504</updated>
+    </task>
+    <task id="LOCAL-00067" summary="lalala">
+      <created>1593471867836</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1593471867836</updated>
+    </task>
+    <task id="LOCAL-00068" summary="small fixes">
+      <created>1593472274363</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1593472274363</updated>
+    </task>
+    <task id="LOCAL-00069" summary="fixes front">
+      <created>1593473098025</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1593473098025</updated>
+    </task>
+    <task id="LOCAL-00070" summary="fix text block">
+      <created>1593473403037</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1593473403037</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77684000" />
+    <option name="totallyTimeSpent" value="89086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="710" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.37864077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.15614887" />
       <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" weight="0.24526316" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -782,15 +873,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="calendar full" />
-    <MESSAGE value="workshops date" />
-    <MESSAGE value="home pics" />
-    <MESSAGE value="home pics &amp; venues" />
-    <MESSAGE value="programma pdf" />
-    <MESSAGE value="2019" />
-    <MESSAGE value="history" />
-    <MESSAGE value="history fixed" />
-    <MESSAGE value="history 2018 fixed" />
     <MESSAGE value="history buttons added" />
     <MESSAGE value="history LINKS FIXED" />
     <MESSAGE value="meta fixed" />
@@ -807,45 +889,18 @@
     <MESSAGE value="en logo fix" />
     <MESSAGE value="logo again fixed" />
     <MESSAGE value="price fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="price fixed" />
+    <MESSAGE value="put all in years i guess" />
+    <MESSAGE value="fix I guess" />
+    <MESSAGE value="image fix" />
+    <MESSAGE value="img fix" />
+    <MESSAGE value="something something should work" />
+    <MESSAGE value="lalala" />
+    <MESSAGE value="small fixes" />
+    <MESSAGE value="fixes front" />
+    <MESSAGE value="fix text block" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix text block" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/data/ilze.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="296" selection-start-line="19" selection-start-column="296" selection-end-line="19" selection-end-column="296" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/eng/ilze.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/eng/michelle_noass.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="545" selection-start-line="16" selection-start-column="545" selection-end-line="16" selection-end-column="545" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/eng/michelle_rhv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/eng/cai_ran.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1480" selection-start-line="25" selection-start-column="1480" selection-end-line="25" selection-end-column="1480" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.11ea396adc61a54066ef.js" />
     <entry file="file://$PROJECT_DIR$/en/static/js/app.191e64409af02b49d1fe.js" />
     <entry file="file://$PROJECT_DIR$/static/js/app.c312e78a9130861a45d8.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/calendar.json">
@@ -978,13 +1033,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/en/static/js/app.c6ecd46bbd17370dcaea.js" />
-    <entry file="file://$PROJECT_DIR$/2019/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="418" selection-start-column="418" selection-end-column="418" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/eng/invisible.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1006,38 +1054,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/static/js/app.5927a2a5cbad8179ed8f.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.5927a2a5cbad8179ed8f.js" />
+    <entry file="file://$PROJECT_DIR$/2019/static/js/app.5927a2a5cbad8179ed8f.js" />
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="978" selection-start-column="978" selection-end-column="978" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1050,6 +1074,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/static/js/app.ddbd3a9336865a45e6df.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="484" selection-start-column="476" selection-end-column="484" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="359" selection-start-column="359" selection-end-column="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29881" selection-start-column="29848" selection-end-column="29881" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/data/naktene.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/data/lost.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/data/was_here.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/data/other_side.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
