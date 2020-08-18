@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="2020 build">
+    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="2020 logo fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/css/app.bd22d79cffd65a4de6a0423ea66a29de.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/css/app.bd22d79cffd65a4de6a0423ea66a29de.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,39 +32,41 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="html" value="11" />
+          <entry key="html" value="12" />
           <entry key="jpg" value="3" />
           <entry key="js" value="5" />
           <entry key="json" value="10" />
-          <entry key="map" value="1" />
+          <entry key="map" value="2" />
           <entry key="png" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Enforced Plain Text" value="1" />
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="11" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="10" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SourceMap" value="1" />
+          <entry key="SourceMap" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="519" />
+          <entry key="html" value="555" />
+          <entry key="js" value="6" />
           <entry key="json" value="267" />
-          <entry key="map" value="19" />
-          <entry key="txt" value="158" />
+          <entry key="map" value="30" />
+          <entry key="txt" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="519" />
+          <entry key="HTML" value="555" />
           <entry key="JSON" value="267" />
-          <entry key="PLAIN_TEXT" value="158" />
-          <entry key="SourceMap" value="19" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PLAIN_TEXT" value="166" />
+          <entry key="SourceMap" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -77,11 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-858">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="187">
+              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -114,11 +113,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020/data/was_here1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020/data/was_here2.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -146,13 +140,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="471" lean-forward="true" selection-start-column="471" selection-end-column="471" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1566" selection-start-column="1566" selection-end-column="1566" />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
         </entry>
       </file>
     </leaf>
@@ -189,6 +193,9 @@
       <find>LV&lt;/a&gt;</find>
       <find>/www.laiksdejotfestivals.lv/\&quot;&gt;LV</find>
       <find>http://www.laiksdejotfestivals.lv</find>
+      <find>/static</find>
+      <find>laiks</find>
+      <find>fd21</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -204,6 +211,7 @@
       <replace>/2019/static/img/log</replace>
       <replace>/2019/static/img/noa</replace>
       <replace>/2019/static/img/Par</replace>
+      <replace>/2020/static</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\User\WebstormProjects\laiksdejot\2018</dir>
@@ -222,7 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2016/en/lka/index.html" />
         <option value="$PROJECT_DIR$/2016/en/meistarklases/index.html" />
         <option value="$PROJECT_DIR$/2016/en/meistarklases/scavetta.html" />
         <option value="$PROJECT_DIR$/2016/en/singe/index.html" />
@@ -266,13 +273,14 @@
         <option value="$PROJECT_DIR$/2019/index.html" />
         <option value="$PROJECT_DIR$/2019/en/index.html" />
         <option value="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/2020/data/other_side.json" />
         <option value="$PROJECT_DIR$/2020/data/naktene1.json" />
         <option value="$PROJECT_DIR$/2020/data/was_here.json" />
         <option value="$PROJECT_DIR$/2020/data/naktene.json" />
         <option value="$PROJECT_DIR$/2020/data/lost.json" />
         <option value="$PROJECT_DIR$/2020/index.html" />
+        <option value="$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js.map" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -433,21 +441,7 @@
       <workItem from="1559374145702" duration="312000" />
       <workItem from="1593463913528" duration="9958000" />
       <workItem from="1595801666470" duration="226000" />
-      <workItem from="1597784305236" duration="5081000" />
-    </task>
-    <task id="LOCAL-00027" summary="images png">
-      <created>1526278303239</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1526278303239</updated>
-    </task>
-    <task id="LOCAL-00028" summary="tickets">
-      <created>1526278632096</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1526278632096</updated>
+      <workItem from="1597784305236" duration="6827000" />
     </task>
     <task id="LOCAL-00029" summary="tickets">
       <created>1526278982558</created>
@@ -778,11 +772,25 @@
       <option name="project" value="LOCAL" />
       <updated>1597789516593</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="2020 build fix">
+      <created>1597790306834</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1597790306834</updated>
+    </task>
+    <task id="LOCAL-00077" summary="2020 logo fix">
+      <created>1597790990975</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1597790990975</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91462000" />
+    <option name="totallyTimeSpent" value="93208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -874,8 +882,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="ENG" />
-    <MESSAGE value="venuri workshop" />
     <MESSAGE value="lv venuri" />
     <MESSAGE value="shmeta" />
     <MESSAGE value="venuri and tai dzi info" />
@@ -899,10 +905,11 @@
     <MESSAGE value="back" />
     <MESSAGE value="spaces" />
     <MESSAGE value="2020 build" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 build" />
+    <MESSAGE value="2020 build fix" />
+    <MESSAGE value="2020 logo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 logo fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/en/static/js/app.be9f3dd01aa0624d0711.js" />
     <entry file="file://$PROJECT_DIR$/2019/data/tai_dzi.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1090,13 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020/data/naktene1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
@@ -1151,10 +1151,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2020/static/js/app.0e5685100fce107c5ea9.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1566" selection-start-column="1566" selection-end-column="1566" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="471" lean-forward="true" selection-start-column="471" selection-end-column="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>

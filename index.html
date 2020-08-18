@@ -18,10 +18,10 @@
     #frameContainer {
         position: fixed;
         height: 100%;
-        top:0px;
-        left: 150px;
-        right:0px;
-        bottom:0px;
+        top:0;
+        left: 0;
+        right:100px;
+        bottom:0;
         z-index:1;
     }
     #main_iframe{
@@ -30,18 +30,17 @@
     }
     nav {
         position:fixed;
-        left:0px;
-        top:0px;
-        bottom:0px;
-        width:160px;
+        top:0;
+        right: 20px;
+        bottom:0;
         background:#fff;
-        z-index:2
     }
     ul {
         display: flex;
         flex-direction: column;
         align-items: center;
         list-style-type: none;
+        padding-inline-start: 0;
     }
     ul li {
         padding: 6px 0;
@@ -78,10 +77,11 @@
 
 
 </style>
-
+<div id="frameContainer">
+    <iframe src="http://www.laiksdejotfestivals.lv/2020/index.html" frameborder="0" name="product_iframe" id="main_iframe"></iframe>
+</div>
 <nav>
     <ul>
-        <li><a href="http://www.party.org.lv/"><img src="/2019/static/img/Party-new-logo.png" width="80px"></a></li>
         <li><a href="http://www.laiksdejotfestivals.lv/2020/index.html" target="product_iframe">2020</a> </li>
         <li><a href="http://www.laiksdejotfestivals.lv/2019/" target="product_iframe">2019</a> </li>
         <li><a href="http://www.laiksdejotfestivals.lv/2018/" target="product_iframe">2018</a> </li>
@@ -89,9 +89,5 @@
         <li><a href="http://www.laiksdejotfestivals.lv/2016/" target="product_iframe">2016</a> </li>
     </ul>
 </nav>
-
-<div id="frameContainer">
-  <iframe src="http://www.laiksdejotfestivals.lv/2020/index.html" frameborder="0" name="product_iframe" id="main_iframe"></iframe>
-</div>
 </body>
 </html>
