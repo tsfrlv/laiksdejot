@@ -1,21 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="other side info">
-      <change afterPath="$PROJECT_DIR$/2020/static/css/app.fb959762a13d11a3c3b11422dba2cda7.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/static/img/Smilga_logo_jpg.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/static/img/ee_vkkf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/static/img/smP9100400+.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map" afterDir="false" />
+    <list default="true" id="bfe57370-b9e6-424e-8ab5-e6952a774980" name="Default" comment="new info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/css/app.b9b81bdbd9b51dff4bdebcc4f1651206.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/css/app.b9b81bdbd9b51dff4bdebcc4f1651206.css" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/css/app.fb959762a13d11a3c3b11422dba2cda7.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/css/app.b9b81bdbd9b51dff4bdebcc4f1651206.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/js/app.e253a14724e6343e0551.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/js/app.e253a14724e6343e0551.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/static/js/app.371b592ad995f49578c7.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018/static/js/app.371b592ad995f49578c7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/static/js/app.371b592ad995f49578c7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2018/static/js/app.371b592ad995f49578c7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/static/js/vendor.725b34352ad13249af1d.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018/static/js/vendor.725b34352ad13249af1d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/static/js/vendor.725b34352ad13249af1d.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2018/static/js/vendor.725b34352ad13249af1d.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/cai_ran.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/cai_ran.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/chiname.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/chiname.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/ehool.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/gans.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/gans.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/home.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/home_en.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/home_en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/ideal_female.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/ideal_female.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/ilze.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/ilze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/inta.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/inta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/invisible.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/labrys.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/labrys.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/last_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/last_time.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/michelle_noass.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/michelle_noass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/michelle_rhv.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/michelle_rhv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/monomyth.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/monomyth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/passport.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/passport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/tai_dzi.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/tai_dzi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/the.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/the.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/data/venuri.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/data/venuri.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.87f99b067721c1b5c6e9.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/app.b2988434b479a1a79ac9.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/en/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/cai_ran.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/cai_ran.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/chiname.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/chiname.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/ehool.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ehool.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/gans.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/gans.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/ideal_female.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ideal_female.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/ilze.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/ilze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/inta.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/inta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/invisible.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/invisible.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/labrys.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/labrys.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/last_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/last_time.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/michelle_noass.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_noass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/michelle_rhv.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/michelle_rhv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/monomyth.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/monomyth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/passport.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/passport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/tai_dzi.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/tai_dzi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/the.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/the.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/eng/venuri.json" beforeDir="false" afterPath="$PROJECT_DIR$/2019/eng/venuri.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/static/js/app.ddbd3a9336865a45e6df.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/static/js/app.ddbd3a9336865a45e6df.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/static/js/app.ddbd3a9336865a45e6df.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/static/js/app.ddbd3a9336865a45e6df.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/static/js/vendor.e5daa52e7c4ec47cb3ea.js" beforeDir="false" afterPath="$PROJECT_DIR$/2019/static/js/vendor.e5daa52e7c4ec47cb3ea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2019/static/js/vendor.e5daa52e7c4ec47cb3ea.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map" afterDir="false" />
     </list>
     <ignored path="laiksdejot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +89,7 @@
           <entry key="jpg" value="4" />
           <entry key="js" value="11" />
           <entry key="json" value="10" />
-          <entry key="map" value="6" />
+          <entry key="map" value="7" />
           <entry key="png" value="4" />
         </counts>
       </usages-collector>
@@ -60,25 +101,25 @@
           <entry key="JSON" value="10" />
           <entry key="JavaScript" value="11" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SourceMap" value="6" />
+          <entry key="SourceMap" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="565" />
-          <entry key="js" value="26" />
+          <entry key="js" value="39" />
           <entry key="json" value="334" />
-          <entry key="map" value="55" />
-          <entry key="txt" value="248" />
+          <entry key="map" value="68" />
+          <entry key="txt" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="565" />
           <entry key="JSON" value="334" />
-          <entry key="JavaScript" value="26" />
-          <entry key="PLAIN_TEXT" value="248" />
-          <entry key="SourceMap" value="55" />
+          <entry key="JavaScript" value="39" />
+          <entry key="PLAIN_TEXT" value="256" />
+          <entry key="SourceMap" value="68" />
         </counts>
       </usages-collector>
     </session>
@@ -98,6 +139,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="84041" selection-start-column="84041" selection-end-column="84041" />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020/data/lost.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -109,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12841" selection-start-column="12834" selection-end-column="12841" />
+            <state relative-caret-position="15">
+              <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -172,7 +223,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>css</find>
       <find>background-image</find>
       <find>Mišele Bulē</find>
       <find>/static/img/poster.553df4c.jpg</find>
@@ -193,7 +243,6 @@
       <find>/www.laiksdejotfestivals.lv/\&quot;&gt;LV</find>
       <find>http://www.laiksdejotfestivals.lv</find>
       <find>laiks</find>
-      <find>http:</find>
       <find>naktene</find>
       <find>http://www.laiksdejotfestivals.lv/2020/</find>
       <find>fd21</find>
@@ -202,6 +251,8 @@
       <find>static/</find>
       <find>static</find>
       <find>/static</find>
+      <find>10 EUR</find>
+      <find>http:</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -218,11 +269,14 @@
       <replace>/2019/static/img/noa</replace>
       <replace>/2019/static/img/Par</replace>
       <replace>/2020/static</replace>
+      <replace>https:</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\User\WebstormProjects\laiksdejot\2018</dir>
       <dir>$PROJECT_DIR$/2019/en</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/2019</dir>
+      <dir>$PROJECT_DIR$/2018</dir>
       <dir>$PROJECT_DIR$/2020</dir>
     </dirStrings>
   </component>
@@ -237,7 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2018/index.html" />
         <option value="$PROJECT_DIR$/2018/static/css/app.b2b2a11795c72730b02b7ac65167b6e3.css" />
         <option value="$PROJECT_DIR$/2016/index.html" />
         <option value="$PROJECT_DIR$/2017/index.html" />
@@ -287,6 +340,7 @@
         <option value="$PROJECT_DIR$/2020/data/other_side.json" />
         <option value="$PROJECT_DIR$/2020/data/lost.json" />
         <option value="$PROJECT_DIR$/2020/index.html" />
+        <option value="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map" />
         <option value="$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js" />
       </list>
     </option>
@@ -431,14 +485,7 @@
       <workItem from="1559374145702" duration="312000" />
       <workItem from="1593463913528" duration="9958000" />
       <workItem from="1595801666470" duration="226000" />
-      <workItem from="1597784305236" duration="14452000" />
-    </task>
-    <task id="LOCAL-00037" summary="home pics &amp; venues">
-      <created>1526296747653</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1526296747653</updated>
+      <workItem from="1597784305236" duration="15069000" />
     </task>
     <task id="LOCAL-00038" summary="programma pdf">
       <created>1526297082729</created>
@@ -776,11 +823,18 @@
       <option name="project" value="LOCAL" />
       <updated>1597913637657</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="new info">
+      <created>1597923017944</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1597923017944</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100833000" />
+    <option name="totallyTimeSpent" value="101450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -872,7 +926,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="price fixed" />
     <MESSAGE value="put all in years i guess" />
     <MESSAGE value="fix I guess" />
     <MESSAGE value="image fix" />
@@ -897,16 +950,10 @@
     <MESSAGE value="opacity wandering" />
     <MESSAGE value="sponsors missing" />
     <MESSAGE value="other side info" />
-    <option name="LAST_COMMIT_MESSAGE" value="other side info" />
+    <MESSAGE value="new info" />
+    <option name="LAST_COMMIT_MESSAGE" value="new info" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/data/michelle_rhv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/eng/inta.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1131,13 +1178,6 @@
     <entry file="file://$PROJECT_DIR$/2017/assets/img/poster1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-618">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020/data/was_here.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1185">
@@ -1159,13 +1199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="166" selection-start-column="159" selection-end-column="166" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020/static/css/app.fb959762a13d11a3c3b11422dba2cda7.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1174,10 +1207,32 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12841" selection-start-column="12834" selection-end-column="12841" />
+          <caret column="84041" selection-start-column="84041" selection-end-column="84041" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="166" selection-start-column="159" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/static/js/app.8eabe05914f5c488b79d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
     </entry>
