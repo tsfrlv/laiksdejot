@@ -71,9 +71,7 @@
     "https://www.laiksdejotfestivals.lv/static/img/exhibition/BUCO4359.JPG",
     "https://www.laiksdejotfestivals.lv/static/img/exhibition/BUCO4360.JPG"
   ],
-  "date1": "11. oktobris 19.00",
-  "spot": "Zirgu Pasts",
-  "body": [
+  "crew": [
     {
       "p": "It was a great pleasure to welcome Slovenian artist Žigan Krajnčan at the LAIKS DEJOT 2020 festival with the performance The Exibition of Now: Fusion with Myself on October 11 in Zirgu pasts."
     },
@@ -85,7 +83,11 @@
     },
     {
       "p": "We think this was the beginning of a beautiful friendship..."
-    },
+    }
+  ],
+  "date1": "11. oktobris 19.00",
+  "spot": "Zirgu Pasts",
+  "body": [
     {
       "p": "Photos by Borut Bučinel."
     }
